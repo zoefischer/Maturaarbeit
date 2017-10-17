@@ -1,6 +1,7 @@
 Maturaarbeit Zoë Fischer
 ========================
-Zoë Fischer
+Zoë Fischer <fischerzoe@kwi.ch>
+
 v0.01, 17.10.2017
 
 :doctype: book
@@ -19,3 +20,6 @@ include::4_Analyse.adoc[]
 
 // Return to normal title levels
 :leveloffset: 0
+
+[index]
+= Index
