@@ -1,9 +1,6 @@
-===Maturarbeit
+= 1.Einleitung
 
-
-==1.Einleitung
-
-=1.1 Motivation
+== 1.1 Motivation
 
 Die Leidenschaft für das Kneten und das anschauen von Animationen bildete sich bei mir sehr früh.
 Schon im Kindergarten sass ich oft im Bastelecken und beschäftigte mich mit dem Kneten von Figuren.
@@ -17,7 +14,7 @@ Zum Abschluss des Semesters schauten wir nähmlich im Unterricht den animierten 
 Ich war begeistert von der Fähigkeit, eine solch tragische Geschichte so lebhaft und einfühlsam übermitteln zu können, ohne
 
 
-=1.2 Ziel
+== 1.2 Ziel
 
 Meine Arbeit soll den Zuschauer zum Nachdenken anregen.
 Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlung aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer parallelen zu schon bekannten Ereignissen oder Gefühlen schieben.

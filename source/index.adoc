@@ -1,0 +1,21 @@
+Maturaarbeit Zoë Fischer
+========================
+Zoë Fischer
+v0.01, 17.10.2017
+
+:doctype: book
+:icons:
+:max-width: 45em
+
+// Push titles down one level
+:leveloffset: 1
+include::1_Einleitung.rst[tabsize=4]
+
+include::2_Hintergründe.rst[]
+
+include::3_Arbeitsprozess.rst[]
+
+include::4_Analyse.adoc[]
+
+// Return to normal title levels
+:leveloffset: 0
