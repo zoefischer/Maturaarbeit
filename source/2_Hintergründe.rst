@@ -1,3 +1,0 @@
-== Hintergründe
-
-Folgende Dinge haben mich bewogen

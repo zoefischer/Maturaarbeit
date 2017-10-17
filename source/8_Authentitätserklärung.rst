@@ -1,8 +1,0 @@
-== 8. Authentizitätserklärung
-
-Ich, Zoë Fischer, bezeuge hiermit, dass ich diese Maturitätsarbeit eigenständig und ohne unerlaubte Hilfsmittel geschrieben habe, und dass alle Quellen wahrheitsgetreut verwendet wurden.
-Zudem bin ich die alleinige Urheberin des Kurzfilmes.
-
-Zoë Fischer
-
-Zürich, Dezember 2017

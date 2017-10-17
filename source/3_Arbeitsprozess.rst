@@ -1,9 +1,0 @@
-== 3. Arbeitsprozess
-
-=== 3.1 Material
-
-=== 3.2 Vorbereitung
-
-=== 3.3
-
-=== 3.4 Folgearbeit

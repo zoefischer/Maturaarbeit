@@ -7,19 +7,41 @@ v0.01, 17.10.2017
 :doctype: book
 :icons:
 :max-width: 45em
+:toc: macro
+:toc-title: Inhaltsverzeichnis
+
+:pdf-stylesdir: theme
+:pdf-style: pdf.yaml
+:chapter-label: Foo
+
+toc::[]
+
+
+:numbered:
+
 
 // Push titles down one level
 :leveloffset: 1
-include::1_Einleitung.rst[tabsize=4]
+include::1_Einleitung.adoc[]
 
-include::2_Hintergründe.rst[]
+include::2_Hintergründe.adoc[]
 
-include::3_Arbeitsprozess.rst[]
+include::3_Arbeitsprozess.adoc[]
 
 include::4_Analyse.adoc[]
+
+include::5_Reflexion.adoc[]
+
+include::6_Danksagung.adoc[]
+
+:numbered!:
+
+include::7_Literaturverzeichnis.adoc[]
+
+include::8_Authentitätserklärung.adoc[]
 
 // Return to normal title levels
 :leveloffset: 0
 
 [index]
-= Index
+== Index

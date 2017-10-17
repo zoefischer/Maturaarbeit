@@ -1,4 +1,0 @@
-== 7.Literaturverzeichnis
-
-Dreipunkt Beleuchtung
-http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.17 15:20)

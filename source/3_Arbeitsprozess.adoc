@@ -1,11 +1,11 @@
-= 3. Arbeitsprozess
+= Arbeitsprozess
 
-== 3.1 Material
+== Material
 
-== 3.2 Vorbereitung
+== Vorbereitung
 
-== 3.3
+== ?
 
-== 3.4 Folgearbeit
+== Folgearbeit
 
 blub
