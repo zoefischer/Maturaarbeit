@@ -2,4 +2,9 @@
 = Literaturverzeichnis
 
 [bibliography]
-- [[[negenborn]]] Negenborn Daniel. 'Dreipunkt Beleuchtung'. http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.17 15:20)
+- [[[negenborn]]] Negenborn, Daniel: 'Dreipunkt Beleuchtung', http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.17 15:20)
+
+- [[[Strauch16]]] Strauch, Thomas; Engelke, Carsten: 'Filme machen',Wilhelm Fink, Paderborn, 2016
+
+
+-[[[guldies]]] Alex 

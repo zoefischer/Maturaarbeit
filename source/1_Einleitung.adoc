@@ -1,24 +1,29 @@
 = Einleitung
 
+Ich möchte einen etwa 2 Minuten langen Stop-Motion Kurzfilm mit Knetfiguren drehen und damit auf eine spielerische Art das Thema der Körpernorm und Körperwahn ansprechen und was dieses in einem auslösen können, aufzeigen anhand einer Knetfigur.
+
+Wie kann ich mit einfachen Figuren Emotionen/ Verhalten/ Gedanken/ Botschaften ausdrücken? Was genau ist "_Claymation_"? Wie funktioniert Stop-Motion? Wie dreht man einen Kurzfilm? Welche Techniken muss ich erlernen? Welche gestalterischen Methoden kann man anwenden?
+
 == Motivation
 
 Die Leidenschaft für das Kneten und das anschauen von Animationen bildete sich bei mir sehr früh.
 Schon im Kindergarten sass ich oft im Bastelecken und beschäftigte mich mit dem Kneten von Figuren.
-Durch das visuele Kreiiren von Gestalten, die ich mir ständig im Kopf vorstellte, konnte ich mich in einer neuen Art ausdrücken und ausleben.
+Durch das visuelle Kreiiren von Gestalten, die ich mir ständig im Kopf vorstellte, konnte ich mich in einer neuen Art ausdrücken und ausleben.
 Auch für das Anschauen von Animierten Filmen zeigte ich früh Begeisterung.
-"Wallace & Grommit" war der erste Film, den ich im Kino ansehen ging.
-Zusammen mit meiner besten Freundin ahmte ich dazumals auf dem Spielplatz die Geräusche, die "Pingu" von sich gibt nach.
+"Wallace & Gromit" war der erste Film, den ich im Kino ansehen ging.
+Ausserdem ahmte ich zu Primarschulzeiten zusammen mit meiner besten Freundin auf dem Pausenplatz die Geräusche die "Pingu" von sich gab, nach.
 
 .Wallace und Gromit
 image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=50%,align=center]
 
 
-Doch die eigentliche (((Inspiration))) für meine Maturarbeit fand ich im Gymnasium, in einer Französisch Lektion kurz vor den Sportferien 2016 footnote:[Auch der Französischunterricht hat mir etwas gebracht.].
-Zum Abschluss des Semesters schauten wir nähmlich im Unterricht den animierten Knetfilm "_Ma vie de courgette_".
-Ich war begeistert von der Fähigkeit, eine solch tragische Geschichte so lebhaft und einfühlsam übermitteln zu können, ohne
+Doch die eigentliche (((Inspiration))) für meine Maturitätsarbeit fand ich im Gymnasium, in einer Französisch Lektion kurz vor den Sportferien 2016 footnote:[Auch der Französischunterricht hat mir etwas gebracht.].
+Zum Abschluss des Semesters schauten wir nähmlich im Unterricht den Stop-Motion Film von _Claude Barras_, "_Ma vie de courgette_".
+Ich war begeistert von der Fähigkeit, eine solch tragische, tief traurige Geschichte so lebhaft und einfühlsam übermitteln zu können, ohne das Schauspiel von Menschen.
 
 
 == Ziel
 
 Meine Arbeit soll den Zuschauer zum Nachdenken anregen.
 Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlung aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer parallelen zu schon bekannten Ereignissen oder Gefühlen schieben.
+Der Zuschauer soll die Handlung selbst interpretieren und deuten.
