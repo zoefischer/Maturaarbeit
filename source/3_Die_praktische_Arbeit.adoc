@@ -1,4 +1,4 @@
-= Arbeitsprozess
+= Die praktische Arbeit
 
 == Material
 Fimo
@@ -8,11 +8,11 @@ Smartphonestativ
 StopMotion
 IStopMotion
 Dragonframe
-Nikon 72000
+Nikon 7200
 
 == Vorbereitung
 
-Um mich an die Arbeit heranzutasten habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
+Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
 Fimo wurde mir in allen Bastelläden vorgeschlagen, obwohl sich später herausstellte, dass er sehr schnell brüchig und hart wird.
 Dementsprechend nicht geeignet ist für meine Arbeit.
 Plastilin erwies sich schlussendlich als das passendste Material.
@@ -55,5 +55,5 @@ Ausgestattet habe ich diesen mit selber gemachten Möbeln und Verzierungen.
 
 Nach dem fotografieren einer einzelnen Szene habe ich die Fotos als Video exportiert und in das Schnittprogramm "[[[Lightworks]]]" eingefügt.
 Dort habe ich stetig die Videos hintereinander eingefügt und eine Grobversion des Filmes hergestellt.
-Gleichzeitig habe ich mit einem "[[[]]]" Mikrofon Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
-Diese habe ich ebenfalls in "[[[Lightworks]]]" eingeführt. 
+Gleichzeitig habe ich mit einem "[[[ZoomH5]]]" Fieldrecorder Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
+Diese habe ich ebenfalls in "[[[Lightworks]]]" eingeführt.

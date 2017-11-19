@@ -22,13 +22,13 @@ toc::[]
 :leveloffset: 1
 include::1_Einleitung.adoc[]
 
-include::2_Hintergründe.adoc[]
+include::2_Material_und_Methode.adoc[]
 
-include::3_Arbeitsprozess.adoc[]
+include::3_Die_praktische_Arbeit.adoc[]
 
 include::4_Analyse.adoc[]
 
-include::5_Reflexion.adoc[]
+include::5_Schlusswort.adoc[]
 
 include::6_Danksagung.adoc[]
 

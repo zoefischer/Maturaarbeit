@@ -1,51 +1,57 @@
 = Einleitung
 
-Ich möchte einen etwa 2 Minuten langen Stop-Motion Kurzfilm mit Knetfiguren drehen und damit auf eine spielerische Art das Thema von Körpernorm und Körperwahn ansprechen.
-Anhand einer Knetfigur soll aufgezeigt werden, was diese Körpernormen auslösen können.
-
 == Motivation
 
 Ein für mich passendes Thema für meine Maturitätsarbeit zu finden, war nicht einfach.
-In den ersten Jahren des Gymnasiums war ich mir immer sicher, dass ich meine Abschlussarbeit im Fachbereich: _Bildernerisches Gestalten_ machen werde.
-Durch die Jahre wurde ich aber immer unsicherer, denn die Anforderungen im Fachunterricht wurden strenger und ich konnte mich nie auf ein Gebiet spezialiesieren, in welchem ich eine Maturitätsarbeit machen konnte.
-Schlussentlich habe ich mich dazu entschieden, mich an ein komplett unbekanntes Gebiet anzutatsten.
+In den ersten Jahren des Gymnasiums war ich mir immer sicher, dass ich meine Abschlussarbeit im Fachbereich: _Bildnerisches Gestalten_ machen werde.
+Mit den Jahren wurde ich aber immer unsicherer ob das die richtige Entscheidung sei, denn die Anforderungen im Fachunterricht wurden laufend strenger.
+Weiter konnte ich mich nie in einem Gebiet spezialisieren, in welchem ich mir zutraute, eine Maturitätsarbeit zu machen.
+Schlussendlich habe ich mich dazu entschieden, mich an ein mir komplett unbekanntes Feld heranzuwagen.
 
-Die Leidenschaft für das Kneten und das anschauen von Animationen bildete sich bei mir sehr früh.
-Schon im Kindergarten sass ich oft in der Bastelecke und beschäftigte mich mit dem Kneten von Figuren.
-Durch das visuelle Kreieren von Gestalten, konnte ich mich in einer neuen Art ausdrücken und ausleben.
-Auch für das Anschauen von animierten Filmen zeigte ich früh Begeisterung.
-"Wallace & Gromit" war der erste Film, den ich im Kino angesehen habe.
-Ausserdem ahmte ich zu Primarschulzeiten zusammen mit meiner besten Freundin auf dem Pausenplatz die Geräusche, die "Pingu" von sich gab, nach.
+Ich habe zwei Leidenschaften verbunden, die mich seit der Kindheit begleiten.
+Auf der einen Seite habe ich bereits im Kindergarten sehr gerne gebastelt und mich dort auch mit Knetmasse und dem Kneten von Figuren beschäftigt.
+Auf der anderen Seite sah ich mir gerne animierte Filme an.
+Mein erster Film, den ich im Kino gesehen habe, war "Wallace & Gromit". Dieser war nicht nur animiert sondern setzt die Technik der Knetfiguren in Perfektion um.
+
+Doch die eigentliche Inspiration für meine Maturitätsarbeit fand ich im Gymnasium, in einer Französisch Lektion, kurz vor den Sportferien 2016.
+Zum Abschluss des Semesters sahen wir im Unterricht den Stop-Motion Film von _Claude Barras_, "_Ma vie de courgette_" an.
+Ich war begeistert von der Fähigkeit des Künstlers, eine solch tragische, tief traurige Geschichte so lebhaft und einfühlsam übermitteln zu können.
+Damit war
+Die vorliegende Arbeit verbindet deshalb meine Interessen an handwerklichem Arbeiten und der Liebe zum animierten Film.
 
 .Wallace und Gromit
-image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=50%,align=center]
+image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=33%,align=center]
 
-
-Doch die eigentliche (((Inspiration))) für meine Maturitätsarbeit fand ich im Gymnasium, in einer Französisch Lektion kurz vor den Sportferien 2016.
-Zum Abschluss des Semesters schauten wir im Unterricht den Stop-Motion Film von _Claude Barras_, "_Ma vie de courgette_".
-Ich war begeistert von der Fähigkeit des Künstlers, eine solch tragische, tief traurige Geschichte so lebhaft und einfühlsam übermitteln zu können.
-
+Durch äussere Einflüsse bin ich seit früh damit konfrontiert gewesen, ob und wie ich mit meinem Körper zufrieden bin.
+Während ich anfangs Primarschule noch mit meinem Körper zufrieden war, hat sich mein Körpergefühl über die Jahre stark verändert.
+Die Ansprüche, die die heutige Zeit und mit ihr die Gesellschaft, stellen, führten dazu, dass ich einem Ideal entsprechen wollte und deshalb bis heute mit meiner Figur unzurfrieden bin.
+Dabei ist es so, dass ich kognitiv weiss, dass ich diesen Idealen nicht entsprechen müsste, es mir aber schwer fällt, dem impliziten Druck von Aussen nicht stattzugeben.
+Weil mich dieses Thema seit vielen Jahren beschäftigt und ich der Meinung bin, dass sich Kinder in diesem Alter nicht diesen Zwängen unterordnen sollen, habe ich mich entschieden, das Thema "Körperbewusstsein" in meiner Maturitätsarbeit zu bearbeiten.
 
 == Fragestellung
 
-Mit den Filmtechniken der _Animation_ und des _Stop-Motion_ befasste ich mich ernsthaft das erste Mal im Zusammenhang mit meiner Maturitätsarbeit.
-Es nahm mich schon lange Wunder, wie viel Handarebitrbeit und Zeitaufwand in solch einem animierten Film steckt.
-Ausserdem fragte ich mich, wie viele Bilder nötig sind, um einen guten, angenehmen Stop-Motion Film zu drehen, der gleichzeitig professionell wirkt.
-Es stellte sich im Laufe der Zeit der Maturitätsarbeit heraus, ob es mir möglich war meine Vorstellung eines kurzen, ansprechenden Stop-Motion Film zu verwirklichen.
+Wenn man sich einen _Stop-Motion_ Film, wie den oben erwähnten "Wallace & Gromit" oder "Pingu" anschaut, hat man zwar intuitiv eine Ahnung davon, dass ein grosser Aufwand hinter einem solchen Werk steht.
+Es war mir aber nicht klar, wie gross dieser Aufwand tatsächlich ist und welche weiteren Techniken man verwenden muss, um einen Animationsfilm zu erstellen.
 
-- Wie kann ich an Hand von einfachen Figuren Emotionen/ Verhalten/ Gedanken und Botschaften ausdrücken?
-- Was genau ist "[[[Claymation]]]" und was für gestalterische Methoden kann dabei anwenden?
+Ich bin davon ausgegangen, dass ich mich vor allem mit dem Thema _Animation_ und _Stop-Motion_ beschäftigen müsse.
+Während der Arbeit stellte ich fest, dass ein Film noch viele weitere Techniken wie _Claymation_, _Fotographie_, _Beleuchtung_, _Ton_, _Foley_, _Schnitt_, _Dramaturgie_ enthält, in die ich mich erstmals ernsthaft einarbeiten musste.
 
+Meine anfängliche Fragestellung war:
 
+> Wie kann ich mit einfachen Figuren Emotionen / Verhalten / Gedanken / Botschaften ausdrücken? Was genau ist Claymation? Wie funktioniert Stop-Motion? Wie dreht an einen Kurzfilm? Welche Techniken muss ich erlernen? Welche gestalterischen Methoden kann man anwenden? Wie kann man verschiedene Altersgruppen ansprechen?
+
+Im Gespräch mit meiner Betreuerin stellte sich heraus, dass dieser Strauss an Fragen etwas viel für eine Maturitätsarbeit sei.
+Deshalb habe ich mich auf folgende Fragen begrenzt:
+
+- Wie kann ich an Hand von einfachen Figuren Emotionen / Verhalten / Gedanken und Botschaften ausdrücken?
+- Was genau ist "[[[Claymation]]]" und welche gestalterischen Methoden lassen sich dabei anwenden?
 
 == Ziel
 
-Ich möchte einen etwa 2 Minuten langen Stop-Motion Kurzfilm mit Knetfiguren drehen und damit auf eine spielerische Art das Thema von Körpernorm und Körperwahn ansprechen.
-Anhand einer Knetfigur soll aufgezeigt werden, was diese Körpernormen auslösen können.
-
-Ziel meiner Arbeit ist es, einen mit simpeln gestalterischen Mittel entworfenen _Stop-Motion_ Kurzfilm zu drehen, der etwa 2 Minuten dauern sollte.
-Die Hauptfigur soll so simpel, wie möglich sein und aus dem Material Knete bestehen.
-In meinem Kurzfilm soll das Thema von Körpernorm und Körperwahn in unserer Gesellschaft angesprochen werden.
+Ziel meiner Arbeit ist es, einen mit simpeln gestalterischen Mittel entworfenen _Stop-Motion_ Kurzfilm zu drehen.
+Dieser soll etwas 2 Minuten lang sein.
+Die Hauptfigur soll sowohl in Materialisierung und Form so einfach wie möglich gestaltet sein und aus dem Material Plastilin bestehen.
+Im Kurzfilm soll das Thema von Körpernorm und Körperwahn in unserer Gesellschaft bearbeitet werden.
 Durch das Ansehen des Filmes soll der Zuschauer zum Nachdenken animiert werden.
 Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlung aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer Parallelen zu schon bekannten Ereignissen oder Gefühlen ziehen.
 Der Zuschauer soll die Handlung selbst interpretieren und deuten.
