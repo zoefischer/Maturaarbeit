@@ -9,6 +9,7 @@ v0.01, 17.10.2017
 :max-width: 45em
 :toc: macro
 :toc-title: Inhaltsverzeichnis
+:appendix-caption: Anhang
 
 :pdf-stylesdir: theme
 :pdf-style: pdf.yaml
@@ -40,6 +41,15 @@ include::8_Authentitätserklärung.adoc[]
 
 // Return to normal title levels
 :leveloffset: 0
+
+[glossary]
+== Glossar
+
+Dragonframe:: https://dragonframe.com
+IStopmotion:: https://boinx.com/istopmotion/mac/
+Lightworks:: https://lwks.com
+StopMotion Studio:: https://itunes.apple.com/ch/app/stop-motion-studio/id441651297?mt=8
+Zoom H5:: https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h5-handy-recorder
 
 [index]
 == Index
