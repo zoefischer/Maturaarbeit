@@ -151,14 +151,14 @@ admonition:
     text_transform: uppercase
     font_style: bold
 blockquote:
+  align: left
   font_color: $base_font_color
-  font_size: $base_font_size_large
-  border_color: $base_border_color
-  border_width: 5
+  font_size: $base_font_size
+  font_style: italic
   # FIXME disable negative padding bottom once margin collapsing is implemented
-  padding: [0, $horizontal_rhythm, $block_margin_bottom * -0.75, $horizontal_rhythm + $blockquote_border_width / 2]
+  padding: [0, $horizontal_rhythm + 10 * $blockquote_border_width, $block_margin_bottom * -0.75, $horizontal_rhythm + 10 * $blockquote_border_width]
   cite_font_size: $base_font_size_small
-  cite_font_color: 999999
+  cite_font_color: $base_font_color
 # code is used for source blocks (perhaps change to source or listing?)
 code:
   font_color: $base_font_color
