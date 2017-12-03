@@ -6,35 +6,51 @@
 
 == Reflexion
 
-Das zu Beginn gestellte Ziel war es, einen _Stop-Motion_ etwa 2 Minuten langen Kurzfilm zu drehen, der den Zuschauer zum Nachdenken anspornen soll.
-Ich habe ungefähr 3000 einzelne Bilder fotografiert, die nacheinander abgespielt einen etwa 4 Minuten langen Film ergeben.
-Mein anfängliches Ziel ist somit erreicht.
-Ausserdem habe ich mir verschiedenste Techniken, die ich für die Produktion eines Stop-Motion Film brauchte, selber beigebracht.
-Anhand von simpeln Figuren habe ich versucht menschliche Emotionen und Ausdrücke wiederzugeben, die dem Zuschauer bekannt vorkommen sollen und er die Geschichte anhand von diesen Eindrücken selber erarbeiten soll.
-Anfangs wollte ich eine Handlung aufzeigen, die kein "Happy End" hat und sich als endlose Schlaufe der Handlung abspielen lassen könnte.
-Schlussendlich habe ich mich aber umentschieden und konnte somit mein eigentliches Ziel der Handlung nicht erfüllen. 
-Durch die Reaktionen von Bekannten, die meinen Film angeschaut haben, kann ich sagen, dass die Handlung klar erkannt wurde, ohne dass ich sie informiert habe.
-Im Verlauf meiner Arbeit hatte ich manche Ideen und Vorstellungen.
-Ich habe mir einen interessanten, abwechslungsreichen Kurzfilm vorgestellt, mit verschiedenen Handlungssträngen.
-Doch es erwies sich, dass meine Vorstellungen weit über den Möglichkeiten waren und meinem möglichem Zeitaufwand nicht entsprachen.
-Deshalb habe ich mich schlussendlich auf einen Raum eingeschränkt.
-Rückblickend hätte ich von Anfang an, mich vom Perfektionismus müssen entfernen, damit ich nicht wertvolle Zeit an kleinen Details verliere.
+Das zu Beginn gestellte Ziel war es, einen rund 2 Minuten langen Kurzfilm in _Stop-Motion_ Technik zu drehen, der den Zuschauer zum Nachdenken anregen soll.
+Ich habe ungefähr 3000 einzelne Bilder fotografiert, die nacheinander abgespielt, einen etwa 4 Minuten langen Film ergeben.
+Mein technisches Ziel habe ich somit erreicht.
+Zusätzlich habe ich mir verschiedenste Techniken, die ich für die Produktion eines Stop-Motion Film brauchte, selber beigebracht.
+Anhand von simpeln Figuren habe ich versucht, menschliche Emotionen und Ausdrücke wiederzugeben, die dem Zuschauer bekannt vorkommen sollen.
+Der Zuchauer sollte damnit die Geschichte anhand von diesen Eindrücken selber erarbeiten.
+Anfangs wollte ich eine Handlung zeigen, die kein "Happy End" hat und sich als endlose Schlaufe abspielen lässt.
+Im Lauf der Arbeit habe ich mich aber umentschieden und konnte somit mein eigentliches Ziel der Handlung nicht erfüllen.
+TODO: Hier fehlt mir eine Erklärung, wieso Du dich umentschieden hast.
+Durch die Reaktionen von Bekannten und Freunden, die meinen Film angeschaut haben, kann ich sagen, dass die Handlung klar erkannt wurde, ohne dass ich sie vorher erzählt oder erklärt habe.
 
+Im Verlauf meiner Arbeit hatte ich viele zusätzliche Ideen und Vorstellungen.
+Ich habe mir einen interessanten, abwechslungsreichen Kurzfilm vorgestellt, mit verschiedenen Handlungssträngen.
+Doch es zeigte sich, dass meine Vorstellungen weit über meinen Möglichkeiten waren und im möglichem Zeitaufwand im Rahmen dieser Maturitätsarbeite nicht realisierbar waren.
+Ich habe mich darauf beschränkt, den Film in einem einzigen Raum spielen zu lassen.
+TODO: Weitere Einschränkungen?
+
+Was mir ebenfalls im Weg stand, war mein Hang zum Perfektionismus.
+Ich habe mich oft in der Gestaltung von Details verloren und dadurch wertvolle Zeit verloren.
+Im Rückblick wäre es besser gewesen... TODO
 
 == Ausblick
 
-Wie jeder Arbeitsprozess, könnte auch dieser noch weitergeführt werden.
-Ich habe mich im Verlauf meiner Arbeit bewusst auf einen kurzen Film eingegrenzt, der nur ein Bühnenbild braucht, damit ich meine Ziele realisieren konnte und nun ein anständiges, vollendetes Produkt präsentieren kann.
-Trotzdem könnte man meinem Projekt weitere Elemente hinzufügen.
+Am Ende jedes Projektes blickt man zurück und denkt sich, dass noch vieles hätte gemacht und erweitert werden können.
+Ich habe mich im Verlauf meiner Arbeit bewusst auf erstellen eines kurzen Filmes beschränkt, der nur ein Bühnenbild und relativ einfache Figuren braucht um am Ende ein gutes, in sich abgeschlossenes Projekt zu präsentieren.
 
-Man könnte einerseits verschiedene weitere Szenen mit anderen Schauplätzen filmen und hinzufügen, dies würde jedoch vermutlich zu einer Veränderung der Handlung führen.
-Wenn man sich nicht auf die jetzige Handlung beschränkt, könnte man das angesprochene Thema ausgiebig erweitern.
-Andererseits könnte man das jetzige Produkt weiter angehen und ausbauen.
-Das Schnittprogramm bietet sehr viele Möglichkeiten, um das vorhandene Film und Ton Material zu bearbeiten.
-Man kann durch das unterschiedliche aneinanderfügen von Abläufen, völlig verschiedene Geschichten erzählen und somit andere Aussagen machen.
-In meiner Arbeit habe ich mich auf Geräusche eingeschränkt und habe die Verwendung von Sprache ausgeschlossen.
-Durch das Verbalisieren einer Handlung kann man viele weitere Türen der Möglichkeiten öffnen.
+Gerne hätte ich weitere Elemente hinzugefügt.
 
-Es wäre spannend in Zukunft eine Weiterführung dieser Arbeit in Betracht zu nehmen.
-Eine andere Möglichkeit währe es, die jetzige Arbeit an ein Publikum zu richten.
-Ich könnte mir vorstellen die nun vorliegende Arbeit einem jungen, unsicheren Publikum vorzustellen, welches meine Arbeit als Gelegenheit, um ihre Gefühle, Gedanken oder Probleme zu reflektieren, nutzen kann und sich inspirieren kann.
+Das könnte auf verschiedenen Ebenen geschehen.
+
+Das bestehende Film- und Tonmaterial liesse sich zu einer neuen Geschichte zusammensetzen in dem man im Schnittprogramm einen anderen Ablauf erstellt.
+Das Schnittprogramm selber bietet viele weitere Möglichkeiten mit dem Bildmaterial umzugehen und es zu gestalten (z.B. durch Verfremdung, Veränderung der Farben, etc.)
+Durch das Verwenden von diesen Techniken könnten weitere thematische Aspekte visualisiert werden.
+Zum Beispiel lässt sich eine hoffnungsfrohe oder hoffnungslose Stimmung der Hauptfigur durch entsprechende Lichtgestaltung zeiten.
+
+Das Element Ton ist ein weiteres Element, mit dem sich der Film verändern lässt.
+Ich habe bewusst nur Geräusche und keine Sprache verwendet.
+Wenn man den Figuren eine Stimme verleiht, eröffnen sich weitere Möglichkeiten des Erzählens der Geschichte.
+
+
+Im Rahmen der bestehenden Szenerie kann man das besprochene Thema erweitern und weitere Dimensionen beleuchten.
+TODO: 1-2 Ideen
+Augrund meiner Erfahrung weiss ich, dass ich ca 90 Minuten Arbeit brauche um 10 Sekunden Rohfilm zu filmen.
+Viel mehr Aufwand ist aber das Entwickeln der Idee, das schneiden und das Vertonen.
+
+Eine Erweiterung der Geschichte führt entweder zu weiteren Figuren, die im Film vorkommen, oder zu weiteren Schauplätzen.
+Zusätzlich zum Aufwand, den ich oben beschrieben habe, kommt das Bauen der Kulisse.
+Je nach Komplexität der Szenerie entstehen hier mehrere Tage Aufwand.
