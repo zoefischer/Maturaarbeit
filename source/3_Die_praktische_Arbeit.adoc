@@ -49,7 +49,7 @@ Ausgestattet habe ich diesen mit selber gemachten Möbeln und Verzierungen.
 == Die Drei-Punkt-Beleuchtung
 
 
-== Shnitt und Ton
+== Schnitt und Ton
 
 Nach dem fotografieren einer einzelnen Szene habe ich die Fotos als Video exportiert und in das Schnittprogramm "[[[Lightworks]]]" eingefügt.
 Dort habe ich stetig die Videos hintereinander eingefügt und eine Grobversion des Filmes hergestellt.
