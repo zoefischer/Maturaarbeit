@@ -1,12 +1,13 @@
 = Analyse
 
-Bühnenbild:
+== Bühnenbild
+
 Ich habe mich für den Bau eines Schlafzimmers entschieden, damit ich einen einheitlichen Raum zur Verfügung habe, der nicht nach jedem Filmprozess neu gestaltet oder umgebaut werden muss.
-Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die nur mit der Verschiebung der Kamera nicht funktioniert hätten.
-Die Farbe der Ausstattung habe ich ganz bewusst gesetzt.
-Einerseits habe ich sie benutzt, um die Hauptfigur in den Fokus zu setzen.
-Andererseits habe ich die Bedeutung der Farbe weiss recherchiert und war begeistert.
-Wie viversum <<viversum>> in ihrem Text zur Spiritualität beschreibt:
+Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
+Die Farbe der Ausstattung habe ich ganz bewusst in Weiss umgesetzt.
+Einerseits habe ich diese Farbe benutzt, um die Hauptfigur in den Fokus zu setzen.
+Andererseits habe ich verschiedene Bedeutungen der Farbe Weiss recherchiert und fand einiges in der Symbolik passend für mein Projekt.
+Wie viversum <<viversum>> in ihrem Text zur Spiritualität schreibt:
 
 [quote]
 --
@@ -19,60 +20,64 @@ Doch Weiß ist noch so viel mehr als eine Farbe: In fernöstlichen Kulturen wie 
 Sie festigt uns innerlich und befreit uns von störenden Gedanken."
 --
 
-Diese verschiedenen Deutungen konnte ich direkt mit meinem behandelten Inhalt assozieren.
-Die Unschuld der eigenen Person, welche aber in tiefer Trauer steckt.
-Und sich in ihrem weissen Raum von ihren störenden Gedanken und Problemen entfernt und sich befreit.
+Der weissen Raum, der ruhig und frei von Ablenkungen ist. Der Raum, in dem sich die Hauptperson von ihren störenden Gedanken und Problemen entfernt und befreit.
 
-Ausserdem hat man auf dem Boden und den Wände nach einer gewissen zeit Rückstände der Knetfiguren und somit der Handlung feststellen können.
-Mir hat diese automatisch passierende Geste sehr gut gefallen, denn für mich widerspiegelt das die Redewendung "Man hinterlässt überall seine Spuren".
+Mit Fortschreiten des Projekts sind auf Boden und Wänden des Raums Rückstände der Knetfiguren und somit der Handlung sichtbar geworden.
+Jede Szene, die ich gespielt und gefilmt habe, hat Spuren von farbiger Knetmasse im Raum hinterlassen.
+Damit wird der Ausdruck _Man hinterlässt überall seine Spuren_ symbolisiert.
 
 
-Figur:
+== Hauptfigur
 
-Die Knetmasse soll den unbestimmten Menschen darstellen.
-Egal was für eine Hautfarbe, was für einen Körperbau oder welches Geschlecht, die Figur soll das "DU" aufzeigen.
-Ob man sich auf diese Konfrontation einlassen will und sich mit dieser Figur oder Masse identifizieren will, wird einem selber überlassen.
-Meine Figur soll einfach eine Fläche bieten, auf welcher sich der Zuschauer finden kann und sich seine persönliche Geschichte ausmalen kann.
-Ausserdem wechselt die Figur ständig ihre Körperform und bleibt trotzdem unzufrieden.
-Dies soll aufzeigen, dass nicht die Veränderung des eigentlichen Körperbilds die Zufriedenheit bewährt, sondern dass die Zufriedenheit im Kopf zuerst ermittelt werden muss.
-Das Material Plastilin hat sich für diese Intention sehr bewährt, denn das Material ist sehr gut verformbar und wird auch nach langer Zeit nicht spröde.
-Deshalb kann man es über mehrere Tage oder Wochen stehen lassen.
-Dies erwies sich als sehr praktischen, denn ich konnte somit mit einer Masse arbeiten und musste nicht bei jedem Filmversuch eine neue Form mit neuer Knetmasse herstellen.
-Ausserdem bietet das Plastilin eine der menschlichen Haut ähnliche Oberfläche.
-Was das modelieren einfacher gestaltete.
-Die Handlung konnte durch das Material sehr gut ausgelebt werden.
-Die Farbe Blau habe ich gewählt, weil sie für mich etwas kaltes und trauriges ausstrahlt, ausserdem kann sie nicht zu einer menschlichen Hautfarbe zugeteilt werden.
-Deshalb entsteht ein, vom Menschen unabhängiges Individuum.
+Die Knetmasse soll einen unbestimmten Menschen darstellen.
+Es ist egal was für eine Hautfarbe, was für einen Körperbau oder welches Geschlecht -- die Figur soll das "DU" sein.
+Ob man sich auf dieses Bild einlassen will und sich mit dieser Figur oder Masse identifiziert, bleibt dem Betrachter selber überlassen.
+Diese Figur soll einfach eine Projektionsfläche bieten, auf welcher sich der Zuschauer finden und seine persönliche Geschichte ausmalen kann.
+Zentral ist, dass die Figur ständig ihre Körperform wechselt und dennoch unzufrieden bleibt.
+Damit will ich aufzeigen, dass nicht die Veränderung des Körperbilds Zufriedenheit gibt, sondern dass diese zuest in Kopf und Gedanken stattfinden muss.
+
+Das Material _Plastilin_ hat sich für diesen Zweck sehr bewährt, denn das Material ist sehr gut verformbar und wird auch nach langer Zeit nicht spröde.
+Man kann es deshalb gut über mehrere Tage oder Wochen stehen lassen.
+Dies erwies sich als sehr praktisch, denn ich konnte mit einer einzigen Masse arbeiten und musste nicht bei jedem Filmversuch eine neue Form mit neuer Knetmasse herstellen.
+Ausserdem hat Plastilin eine der menschlichen Haut ähnliche Oberflächenbeschaffenheit, was das modelieren einfacher gestaltete.
+Die Handlung konnte mit der Wahl dieses Materials sehr gut umgesetzt werden.
+
+Die Farbe Blau habe ich gewählt, weil sie für mich etwas kaltes und trauriges ausstrahlt.
+Zudem vermeide ich den Bezug zu einer menschlichen Hautfarbe.
+Deshalb entsteht ein vom Menschen unabhängiges Individuum.
+
 Die Figur ist ein von aussen beeinflusstes Wesen.
-Gut erkennbar sind die Auswirkungen der Einflüsse, bei der Szene mit den Postern.
-Nach dem Anschauen der "perfekten" Figuren fühlt sich die Hauptfigur zermürbt.
+Gut erkennbar sind die Auswirkungen der Einflüsse, bei der Szene in der die Figur die Poster bestrachtet und dann wegfirft.
+Nach dem Anschauen der "perfekten" Figuren fühlt sich die Hauptfigur traurig und unzufrieden.
 Diese Situation soll das wirkliche Leben widerspiegeln.
-Wie in der Einleitung erklärt, befasse ich mich ständig mit diesem Thema und kenne diese Situation nur all zu gut.
-Deshalb war es mir persönlich wichtig sie in meinem Film aufzuzeigen.
+Wie in der Einleitung erklärt, befasse ich mich persönlich ständig mit diesem Thema und kenne diese Situation nur all zu gut.
+Deshalb war es mir wichtig sie in meinem Film aufzunehmen und zu thematisieren.
 
 
-Zweite Figur:
+== Zweite Figur
 
-Die Zweite Figur soll ein Vertreter der Unterstützung darstellen.
-Sie soll die Hauptfigur dazu ansporen sich selber zu akzeptieren und zu realisieren, dass alles an ihr gut ist.
-Ein wichtiger Aspekt für die Aussage der Handlung ist, als die beiden Figuren aufeinander treffen haben sie beide den selben Körperbau.
-Beide erscheinen als eine Kugel.
-Der Grundlegende Unterschied ist jedoch der Gemütszustand der beiden.
-Die grüne Figur ist, trotz der gleichen Statur vollkommen zufrieden mit sich selbst und kann sich erfreut im Spiegel ansehen.
-Die blaue Kugel ist alles andere als Zufrieden.
-Die Umarmung der beiden soll der Auslöser der Besserung sein.
+Die zweite Figur tritt zur Unterstützung auf.
+Sie soll die Hauptfigur dazu ermuntern sich selber zu akzeptieren und zu realisieren, dass alles an ihr Gut ist.
+Ein wichtiger Aspekt für die Aussage der Handlung ist, dass die beiden Figuren beim ersten Treffen einen identischen Körperbau besitzen - nämlich als Kugel.
+
+Der grundlegende Unterschied ist der Gemütszustand der beiden.
+Die grüne Figur ist, trotz der gleichen Statur vollkommen zufrieden und im Einklang mit sich selbst und kann sich erfreut im Spiegel ansehen.
+Die blaue Kugel hingegen ist alles andere als Zufrieden.
+Die Umarmung der beiden ist der Auslöser für die Besserung.
 Es ist ein Austausch an Emotionen und Unterstützung.
-Wenn man sich genau achtet, kann man erkennen, dass nach der Umarmung Rückstände der grünen Figur am Körper der blauen Figur hängen blieben.
-Dies soll den Austausch deutlich machen und aufzeigen, dass sie jetzt nach der Umarmung und der weitergegebenen Vernunft, zufrieden sein kann und sich selber, so wie sie ist akzeptieren kann.
+Wenn man genau achtgibt, kann man erkennen, dass nach der Umarmung der beiden, Rückstände der grünen Figur am Körper der blauen Figur hängen blieben.
+Dies soll diesen Austausch deutlich machen und aufzeigen, dass sie jetzt nach der Umarmung und der weitergegebenen Vernunft, zufrieden sein kann und sich selber, so wie sie ist akzeptieren kann.
 
-Kalender:
+== Kalender
 
-Der Kalender ist ein wichtiges Element in meinem Film.
-Er kommt immer wieder vor, ohne wirklichen Beziehung zur Figur oder Handlung.
+Der Kalender ist ebenfalls ein wichtiges Element in meinem Film.
+Er kommt immer wieder vor, hat aber keine wirklichen Beziehung zur Figur oder Handlung.
 Das Abreissen der Tage soll die Zeitspanne der Handlung zeigen und ausserdem den Zuschauer durch den langen Prozess der Unzufriedenheit begleiten.
-Über dem Pult, unter den Postern kann man auch einen kleinen Kalender erkennen.
+Über dem Pult, unter den Postern, kann man auch einen kleinen Kalender erkennen.
 Dieser soll die Barriere zwischen dem effektiven Kalender und dessen Clips und der sonstigen Handlung bieten.
 Im Abspann wird der Kalender wieder aufgegriffen.
 Man erkennt das Schlafzimmer in der Totalen und die sich darin immer mehr sammelnden abgerissenen Kalenderblätter.
 Die Dauer der Handlung wird so noch einmal aufgeriffen und betont.
+
+TODO: Wiederholung
 Sie soll die Hauptfigur dazu ansporen sich selber zu akzeptieren und realisieren, dass alles an ihr gut ist.
