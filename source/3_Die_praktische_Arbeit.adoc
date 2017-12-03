@@ -24,7 +24,7 @@ Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer (((A
 In YouTube Clips konnte ich mir die nötige Kenntnis für das Animieren von Knetfiguren aneignen. Kanäle wie "_Guldies_" oder "_Howcast_" halfen mir dabei sehr.
 
 Um herauszufinden wie ich am besten meine Arbeit filmen kann, habe ich verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
-Die erste Technik, die ich angewendet habe war das heruntergeladene App "_StopMotion_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativs montiert.
+Die erste Technik, die ich angewendet habe war das heruntergeladene App "_((IStopMotion))_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativs montiert.
 Dies erwies sich jedoch als nicht sehr geeignet, denn die Qualität des Filmes war nicht sehr überzeugend und unpraktisch zu bedienen, denn das iPhone auf dem Stativ war nicht sehr standhaft.
 Weil man jedesmal beim Bedienen des Auslösers auf dem Bildschirm, das ganze Stativ ein wenig verschob und somit das Video wackelig wurde.
 
@@ -49,9 +49,13 @@ Ausgestattet habe ich diesen mit selber gemachten Möbeln und Verzierungen.
 == Die Drei-Punkt-Beleuchtung
 
 
-== Shnitt und Ton
+== Schnitt und Ton
 
-Nach dem fotografieren einer einzelnen Szene habe ich die Fotos als Video exportiert und in das Schnittprogramm "[[[Lightworks]]]" eingefügt.
+Nach dem fotografieren einer einzelnen Szene habe ich die Fotos als Video exportiert und in das Schnittprogramm "((Lightworks))" eingefügt.
 Dort habe ich stetig die Videos hintereinander eingefügt und eine Grobversion des Filmes hergestellt.
-Gleichzeitig habe ich mit einem "[[[Zoom H5]]]" Mikrofon Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
-Diese habe ich ebenfalls in "[[[Lightworks]]]" eingeführt.
+Gleichzeitig habe ich mit einem "((Zoom H5))"-Fieldrecorder Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
+Diese habe ich ebenfalls als Clips in "Lightworks" importiert und an passender Stelle platziert.
+
+.Zeitachse in Lightworks
+image::images/lwks.png[Zeitachse in Lightworks, pdfwidth=33%,align=center]
+

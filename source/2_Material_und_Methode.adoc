@@ -29,44 +29,51 @@ IStopMotion
 Dragonframe
 Nikon 7200
 
-Weil das Verfahren der "(((Claymation)))" mir noch völlig unbekannt war, musste ich mich erstmals an die verschiedenen Gebieten heran tasten und zurecht finden.
+Weil mir das Verfahren der "_((Claymation))_" noch völlig unbekannt war, musste ich mich erstmals an die verschiedenen Gebieten herantasten und zurecht finden.
 Durch das Ausprobieren von verschiedenen Materialien, habe ich mich schlussendlich für Plastilin als Hauptmaterial entschieden.
 Jetzt stand mir offen, ob ich die ganze Szene aus diesem Material herstellen möchte oder nicht.
 
 
+== Praktisch
 
+Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
+In allen Bastelläden wurde mir das Material _((Fimo))_ vorgeschlagen.
+Bei der Arbeit damit stellte sich aber heraus, dass er sehr schnell brüchig und hart wird.
+Dementsprechend war es für meine Arbeit nicht geeignet.
 
-
-
-
-
-
-
-== praktisch
-
-Um mich an die Arbeit heranzutasten habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
-Fimo wurde mir in allen Bastelläden vorgeschlagen, obwohl sich später herausstellte, dass er sehr schnell brüchig und hart wird.
-Dementsprechend nicht geeignet ist für meine Arbeit.
-Plastilin erwies sich schlussendlich als das passendste Material.
-Um mich daran zu gewöhnen habe ich eine Zeit lang oft damit modelliert und verschiedene Objekte nachgebildet, um zu sehen was man mit Plastilin anstellen kann.
-Es wurde mir schnell klar, dass Plastilin für vieles sehr passend ist. Man kann sowohl einfarbige, als auch mehrfarbige beziehungsweise gemischte Objekte herstellen.
+_((Plastilin))_ erwies sich schlussendlich als das passendste Material.
+Um mich daran zu gewöhnen habe ich eine Zeit lang oft damit modelliert und verschiedene Objekte nachgebildet, um zu sehen was man mit Plastilin gestalten kann.
+Es wurde mir schnell klar, dass Plastilin für vieles sehr passend ist.
+Es lassen sich sowohl einfarbige, als auch mehrfarbige sowie gemischte Objekte herstellen.
 Von dick zu dünn ist ziemlich alles möglich.
-Ein Nachteil hat das Material aber auch.
+Einen Nachteil hat das Material aber auch.
 Es ist nicht sehr stabil, es reissen also dünne Teile eines Objektes ab oder knicken sehr schnell ein.
-Die Standhaftigkeit eines Objektes ist sehr wichtig und somit einwenig einschränkend, denn man muss für die Standhaftigkeit immer einen eher dicken untersten Teil haben.
+Die Standhaftigkeit eines Objektes ist sehr wichtig und somit ein wenig einschränkend, denn man muss für die Standfestigkeit immer einen breiten unteren Teil haben.
 
 
-== technisch
+== Technisch
 
-Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer (((Animation))) auseinander gesetzt.
-In YouTube Clips konnte ich mir die nötige Kenntnis für das Animieren von Knetfiguren aneignen. Kanäle wie "_Guldies_" oder "_Howcast_" halfen mir dabei sehr.
+Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer ((Animation)) auseinander gesetzt.
+In YouTube Clips konnte ich mir die nötige Kenntnis für das Animieren von Knetfiguren aneignen. Kanäle wie "_Guldies_" <guldies> oder "_Howcast_" <howcast> halfen mir dabei sehr.
 
 Um herauszufinden wie ich am besten meine Arbeit filmen kann, habe ich verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
-Die erste Technik, die ich angewendet habe war das heruntergeladene App "_StopMotion_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativs montiert.
+Die erste Technik, die ich angewendet habe war das heruntergeladene App "_StopMotion Studio_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativ montiert.
 Dies erwies sich jedoch als nicht sehr geeignet, denn die Qualität des Filmes war nicht sehr überzeugend und unpraktisch zu bedienen, denn das iPhone auf dem Stativ war nicht sehr standhaft "stabil".
-Weil man jedesmal beim Bedienen des Auslösers auf dem Bildschirm, das ganze Stativ ein wenig verschob und somit das Video wackelig wurde.
+Beim Bedienen des Auslösers muss man den Bildschirm berühren.
+Dabei hat sich das ganze Stativ ein wenig verschoben und das resultierende Video wurde wackelig.
 
-Nun habe ich auf dem Internet nach neuen Stop-Motion Programmen recherchiert. Erstmals wollte ich mir ein günstiges Programm suchen und so entschied ich mich für "_IStopMotion_".
-Nachdem ich es gekauft habe, habe ich aber erst gemerkt, dass das Programm nicht mit Kameras zusammen funktioniert, deshalb musste ich auch bei diesem Programm wieder für mein Smartphone entscheiden.
-"_IStopMotion_" war aber auch wieder eine grosse Enttäuschung, denn es stürzte ständig ab, durch das verlor man ständig die neu gefilmten Sachen und man konnte nicht manuell Scharfstellen.
-Nach weiterem recherchieren bin ich dann auf das professionelle Animationsprogramm "[[[_Dragonframe_]]]" gestossen. Ich habe die Testversion auf meinen Computer geladen und eine dazu passende Kamera, eine "Nikon D700" von einer Familienfreundin organisiert. Mit der Testversion habe ich kurze Ausschnitte gefilmt und das komplizierte Programm versucht kennen zu lernen. Ich war mir ziemlich schnell klar, dass ich lieber Geld in ein gut funktionierendes Programm investieren möchte, als weitere Zeit zu verlieren. Deshalb kaufte ich mir die Software.
+Danach habe ich auf dem Internet nach weiteren Stop-Motion Programmen recherchiert.
+Zuerst wollte ich nur ein günstiges Programm suchen und entschied ich mich für "_IStopMotion_".
+Nachdem ich das Programm gekauft hatte, stellte ich fest, dass es nicht mit mit meiner Kamera zusammen funktionierte.
+deshalb musste ich auch bei diesem Programm wieder für mein Smartphone entscheiden.
+Ich musste deshalb auch wieder mit dem Smartphone arbeiten, was ebenfalls die oben erwähnten Probleme hatte..
+
+"_IStopMotion_" war aber auch sonst eine grosse Enttäuschung, denn es stürzte ständig ab.
+Dadurch verlor ich einige Male gefilmte Sequenzen.
+Zusätlich gab es keine Funktion zum manuellen scharfstellen was die Bildgestaltung sehr erschwerte.
+
+Nach weiteren Recherchen bin ich dann auf das professionelle Animationsprogramm "((_Dragonframe_))" gestossen.
+Ich habe die Testversion auf meinen Computer geladen und eine dazu passende Kamera, eine "((Nikon D7200))" von einer Familienfreundin organisiert.
+Mit der Testversion habe ich kurze Ausschnitte gefilmt und das komplizierte Programm erlernt.
+Da die Resultate endlich überzeugend waren und alles funktionierte, entschied ich mich dass ich lieber Geld in ein gut funktionierendes Programm investieren möchte, als weitere Zeit zu verlieren.
+Deshalb kaufte ich mir die Software und die dazu passende Steuerkonsole.
