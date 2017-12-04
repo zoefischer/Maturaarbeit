@@ -42,20 +42,10 @@ Eine ganze Weile habe ich verbracht mit dem Filmen von Testclips um das Programm
 Ausseredem habe ich mir zwei bewegliche Nachttischlampen und zwei LED Lichter zugelegt, um ein gutes Lichtverhältnis zu konstruieren.
 
 Nach allen nötigen Grundausstattungsvorbereitungen habe ich mich für das filmen der Handlung in einem vorerst einzelnen Raum entschieden.
-Ich habe einen Puppenhaus artigen Grundriss mit Boden aus Sperrholz konstruiert und zusammen gebaut.
-Ausgestattet habe ich diesen mit selber gemachten Möbeln und Verzierungen.
+
 
 
 == Die Drei-Punkt-Beleuchtung
 
 
 == Schnitt und Ton
-
-Nach dem fotografieren einer einzelnen Szene habe ich die Fotos als Video exportiert und in das Schnittprogramm "((Lightworks))" eingefügt.
-Dort habe ich stetig die Videos hintereinander eingefügt und eine Grobversion des Filmes hergestellt.
-Gleichzeitig habe ich mit einem "((Zoom H5))"-Fieldrecorder Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
-Diese habe ich ebenfalls als Clips in "Lightworks" importiert und an passender Stelle platziert.
-
-.Zeitachse in Lightworks
-image::images/lwks.png[Zeitachse in Lightworks, pdfwidth=33%,align=center]
-

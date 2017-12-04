@@ -56,6 +56,9 @@ Die Standhaftigkeit eines Objektes ist sehr wichtig und somit ein wenig einschr�
 Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer ((Animation)) auseinander gesetzt.
 In YouTube Clips konnte ich mir die nötige Kenntnis für das Animieren von Knetfiguren aneignen. Kanäle wie "_Guldies_" <guldies> oder "_Howcast_" <howcast> halfen mir dabei sehr.
 
+
+== Software
+
 Um herauszufinden wie ich am besten meine Arbeit filmen kann, habe ich verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
 Die erste Technik, die ich angewendet habe war das heruntergeladene App "_StopMotion Studio_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativ montiert.
 Dies erwies sich jedoch als nicht sehr geeignet, denn die Qualität des Filmes war nicht sehr überzeugend und unpraktisch zu bedienen, denn das iPhone auf dem Stativ war nicht sehr standhaft "stabil".
@@ -77,3 +80,68 @@ Ich habe die Testversion auf meinen Computer geladen und eine dazu passende Kame
 Mit der Testversion habe ich kurze Ausschnitte gefilmt und das komplizierte Programm erlernt.
 Da die Resultate endlich überzeugend waren und alles funktionierte, entschied ich mich dass ich lieber Geld in ein gut funktionierendes Programm investieren möchte, als weitere Zeit zu verlieren.
 Deshalb kaufte ich mir die Software und die dazu passende Steuerkonsole.
+
+== Bühnenbau
+
+Ich habe einen Puppenhaus artigen Grundriss mit Boden aus Sperrholz konstruiert und zusammen gebaut.
+Ausgestattet habe ich diesen mit selber gemachten Möbeln und Verzierungen.
+
+== Beleuchtung
+
+== Film / Fotografie
+
+Dank Barabara Burri, einer Bekannten, war es mir möglich mit einer professionellen Spiegelreflex Kamera, einer Nikon D7200 und einem xy Objektiv arbeiten zu können.
+Die Qualität meines Filmes ist auf diese Kamera zurück zu führen.
+Ausserdem hat die Kamera es mir ermöglicht mit einem professionellem, auf Animationen spezialisiertem Programm zu arbeiten.
+Gemäss Hurni <<hurni>> ist es bei der Bildkomposition wichtig, die Drittelregel anzuwenden.
+Dabei wird das Bild mit vier Linien (zwei Horizontalen und zwei Vertikalen) in neun gliechgrosse Rechtecke unterteilt.
+Die Schnittpunkte der Linien benutzt man um das Motiv zu positionieren.
+Man versucht das Motiv auf einen der Schnittpunkte zu platzieren.
+Dies gefällt dem Menschlichen Auge, vermutlich weil die vier Schnittpunkte von den Proportionen her, dem Goldenen Schnitt ähneln.
+
+Durch das Verwenden des Teleobjektiv war es mir möglich sowohl Nahaufnahmen, als auch die Totale zu verwenden, um unterschiedliche Bildausschnitte zu zeigen.
+
+Mit der Tiefenschärfe kann man im Film die Aufmerksamkeit des Betrachters leiten.
+Ich habe in meinem Film bewusst versucht dieses Mittel der Gestaltung zu nutzen.
+In der untern gezeigten Szene kann man sehen, wie sich Schärfe verändert während die Figur den Raum betretet.
+Angekommen beim Spiegel, am eigentlichen Ort der Handlung, ist die Kamera so eingestellt, dass das Spiegelbild scharf ist und somit die Bewegungen der Figur gut erkennbar sind.
+
+.Tiefschärfe 1
+image::images/Tiefenschärfe.lwks.png[Tiefenschärfe 1, pdfwidth=50%,align=center]
+
+.Tiefenschärfe 2
+image::images/Tiefenschärfe2.lwks.png[Tiefenschärfe 2, pdfwidth=50%,align=center]
+
+== Ton und Foley
+
+Gleichzeitig habe ich mit einem "((Zoom H5))"-Fieldrecorder Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
+Viele der Geräusche habe ich aus ähnlichen Tätigungen, wie die im Film gezeigten, aufgenommen, um es so wahrheitsgetreu wie möglich zu darstellen.
+Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der Schliessung der Türe, habe ich das quietschen meiner Kleiderschranktüre aufgenommen.
+Es war ein interessanter und kreativer Prozess, diese einzelnen Szenen zu vertonen.
+Diese einzelnen habe ich als Clips in "Lightworks" importiert und an passender Stelle platziert.
+Hin und Da mussten gewisse Tonstreifen bearbeitet oder gekürzt werden.
+Weil ich die Videoaufnahmen jeweils mit 50% Schnelligkeit im Schnittprogramm laufen liess, durfte ich erst nach der Verlangsamung die jeweilig passende Tonspur aufnehmen.
+Ansonsten hätte sich bei der nachträglichen Bearbeitung die Tonspur in ihrer Tonhöhe unterschieden.
+
+== Schnitt
+
+Nach dem fotografieren einer Szene habe ich die noch einzelnen Fotos als Video exportiert und in das Schnittprogramm _(((Lightworks)))_ eingefügt.
+Dort habe ich stetig die Sequenzen hintereinander eingefügt und erhielt somit einen Groben Verlaufsstrang.
+Weiter hinzu kamen die Übergänge.
+Mir persönlich gefallen die Überblendungen am besten.
+Sie scheinen für mich am simpelsten und am natürlichsten fürs Auge.
+Den Vorspann und Abspann habe ich direkt in Lightworks in den bisdahin vorhandnen Film eingefügt und habe ihn mit verschiedenen Effekten bearbeitet.
+
+
+
+
+.Zeitachse in Lightworks
+image::images/Spuren.lwks.png[Zeitachse in Lightworks, pdfwidth=100%,align=center]
+
+== Farbkorrektur
+
+== Musik
+
+Die Musik, die ich für meinen Vorspann und Abspann gewählt habe, habe ich aus einer xy Webseite für Lizenzfreie Musik genommen.
+Mir war es wichtig durch die Musik ein Spannungsgefüge aufzubauen.
+Zu Beginn scheint die Gitarrenbegleitung eher einfach und simpel und gegen Ende wird sie dann aufregender und scheint glücklicher.
