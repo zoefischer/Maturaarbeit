@@ -34,7 +34,7 @@ Durch das Ausprobieren von verschiedenen Materialien, habe ich mich schlussendli
 Jetzt stand mir offen, ob ich die ganze Szene aus diesem Material herstellen möchte oder nicht.
 
 
-== Praktisch
+== Knetmasse
 
 Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
 In allen Bastelläden wurde mir das Material _((Fimo))_ vorgeschlagen.
@@ -49,12 +49,6 @@ Von dick zu dünn ist ziemlich alles möglich.
 Einen Nachteil hat das Material aber auch.
 Es ist nicht sehr stabil, es reissen also dünne Teile eines Objektes ab oder knicken sehr schnell ein.
 Die Standhaftigkeit eines Objektes ist sehr wichtig und somit ein wenig einschränkend, denn man muss für die Standfestigkeit immer einen breiten unteren Teil haben.
-
-
-== Technisch
-
-Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer ((Animation)) auseinander gesetzt.
-In YouTube Clips konnte ich mir die nötige Kenntnis für das Animieren von Knetfiguren aneignen. Kanäle wie "_Guldies_" <guldies> oder "_Howcast_" <howcast> halfen mir dabei sehr.
 
 
 == Software
@@ -83,10 +77,18 @@ Deshalb kaufte ich mir die Software und die dazu passende Steuerkonsole.
 
 == Bühnenbau
 
-Ich habe einen Puppenhaus artigen Grundriss mit Boden aus Sperrholz konstruiert und zusammen gebaut.
-Ausgestattet habe ich diesen mit selber gemachten Möbeln und Verzierungen.
+Ich habe einen Puppenhaus artigen Grundriss mit Boden  konstruiert.
+Ich habe meine Ideen umgesetzt und ein Häuschen aus Sperrholz zusammengebaut.
+Ich habe mich für den Bau eines Schlafzimmers entschieden, damit ich einen einheitlichen Raum zur Verfügung habe, der nicht nach jedem Filmprozess neu gestaltet oder umgebaut werden muss.
+Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
+Ausgestattet habe ich diesen raum mit selber gemachten Möbeln und Dekorationen.
 
 == Beleuchtung
+
+Bei der Beleuchtung der Szene habe ich mich ziemlich eingegrenzt.
+Ich habe mich auf eine Filmgrundlage basiert.
+Die Dreipunkt Beleuchtung benutzt man oft, um eine ganze Szene zu beleuchten und verschiedene Teile zu fokusieren.
+
 
 == Film / Fotografie
 
@@ -133,12 +135,22 @@ Sie scheinen für mich am simpelsten und am natürlichsten fürs Auge.
 Den Vorspann und Abspann habe ich direkt in Lightworks in den bisdahin vorhandnen Film eingefügt und habe ihn mit verschiedenen Effekten bearbeitet.
 
 
-
-
 .Zeitachse in Lightworks
 image::images/Spuren.lwks.png[Zeitachse in Lightworks, pdfwidth=100%,align=center]
 
 == Farbkorrektur
+
+Ganz am Schluss meiner Arbeit musste ich noch die Farben im Film anpassen, weil die Unterschiede der verschiedenen Lichtereignissen zu grob waren.
+Nach Recherche und Versuchen habe ich selber herausgefunden, wie man die Farben im "Lightworks" korrigieren kann.
+Diese Arbeit ist nicht sehr einfach und basiert auf dem indivuduellen Auge und Geschmack.
+Ich habe im allgemeinen versucht mein Film wärmer zu kolorieren, denn die orignalen Aufnahmen hatten einen starken Blaustich.
+Ausserdem habe ich versuch, die Veränderungen von beispielsweise der Morgenszene und der darauf folgenden Szene zu minimieren.
+
+.Originale Aufnahme
+image::images/Kalt.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
+
+.Kolorierte Aufnahme
+image::images/Warm.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
 
 == Musik
 
