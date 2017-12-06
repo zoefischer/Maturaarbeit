@@ -21,6 +21,10 @@ Ich wollte mehrere Schauplätze herstellten und dadurch verschiedene Handelsträ
 Nach den ersten Filmsequenzen habe ich aber gemerkt, wie viel Arbeit es wirklich braucht.
 Deshalb habe ich mich ziemlich schnell an der ersten Idee festgehalten und diese soweit ausgebaut, wie es mir möglich war.
 
+.DrehbuchIdee
+image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=67%,align=center]
+
+
 === Storyboard
 
 Wie in jedem Film, vor allem in animierten Filmen, braucht man für die konkrete Umsetzung von einer Idee zu einem Film ein Storyboard.
@@ -30,6 +34,8 @@ Somit kann man auch verschiedene Handlungen aufzeichnen und dann vor sich haben 
 Das Storyboard hilft schlussendlich bei der Positionierung der Kamera.
 Und es vermeidet eine langweilige Kameraführung.
 
+.Storyboard
+image::images/storyboard.png[Storyboard, pdfwidth=67%,align=center]
 
 === Knetmasse
 
@@ -80,6 +86,8 @@ Ich habe mich für den Bau eines Schlafzimmers entschieden, damit ich einen einh
 Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
 Ausgestattet habe ich diesen Raum mit selber gemachten Möbeln und Dekorationen.
 
+.Bühnebau
+image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=67%,align=center]
 
 == Production
 
@@ -88,6 +96,9 @@ Ausgestattet habe ich diesen Raum mit selber gemachten Möbeln und Dekorationen.
 Bei der Beleuchtung der Szene habe ich mich ziemlich eingegrenzt.
 Ich habe mich auf eine Filmgrundlage basiert.
 Die Dreipunkt Beleuchtung benutzt man oft, um eine ganze Szene zu beleuchten und verschiedene Teile zu fokusieren.
+
+.Beleuchtung
+image::images/beleuchtung.png[Beleuchtung,pdfwidth=67%,align=center]
 
 
 === Film und Fotografie
