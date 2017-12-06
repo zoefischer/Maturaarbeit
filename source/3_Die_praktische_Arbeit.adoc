@@ -20,7 +20,7 @@ Ein Nachteil hat das Material aber auch.
 Es ist nicht sehr stabil, es reissen also dünne Teile eines Objektes ab oder knicken sehr schnell ein.
 Die Standhaftigkeit eines Objektes ist sehr wichtig und somit einwenig einschränkend, denn man muss für die Standhaftigkeit immer einen eher dicken untersten Teil haben.
 
-Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer (((Animation))) auseinander gesetzt.
+Nebenbei habe ich mich stetig mit theoretischen Grundlagen zum Filmen einer ((Animation)) auseinander gesetzt.
 In YouTube Clips konnte ich mir die nötige Kenntnis für das Animieren von Knetfiguren aneignen. Kanäle wie "_Guldies_" oder "_Howcast_" halfen mir dabei sehr.
 
 Um herauszufinden wie ich am besten meine Arbeit filmen kann, habe ich verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
