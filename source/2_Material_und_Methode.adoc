@@ -97,7 +97,7 @@ Ich habe mich für den Bau eines Schlafzimmers entschieden, damit ich einen einh
 Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
 Ausgestattet habe ich diesen Raum mit selber gemachten Möbeln und Dekorationen.
 
-.Bühnebau
+.Bühnenbau Skizze
 image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=67%,align=center]
 
 == Production
@@ -130,11 +130,8 @@ Ich habe in meinem Film bewusst versucht dieses Mittel der Gestaltung zu nutzen.
 In der untern gezeigten Szene kann man sehen, wie sich Schärfe verändert während die Figur den Raum betretet.
 Angekommen beim Spiegel, am eigentlichen Ort der Handlung, ist die Kamera so eingestellt, dass das Spiegelbild scharf ist und somit die Bewegungen der Figur gut erkennbar sind.
 
-.Tiefenschärfe 1
-image::images/Tiefenschärfe.lwks.png[Tiefenschärfe 1, pdfwidth=50%,align=center]
-
-.Tiefenschärfe 2
-image::images/Tiefenschärfe2.lwks.png[Tiefenschärfe 2, pdfwidth=50%,align=center]
+.Veränderung der Tiefenschärfe innerhalb einer Szene
+image::images/tiefenschaerfe.png[Tiefenschärfe, pdfwidth=100%,align=center]
 
 === Ton
 
@@ -174,11 +171,9 @@ Diese Arbeit ist nicht sehr einfach und basiert auf dem indivuduellen Auge und G
 Ich habe im allgemeinen versucht mein Film wärmer zu kolorieren, denn die orignalen Aufnahmen hatten einen starken Blaustich.
 Ausserdem habe ich versucht, die Veränderungen von beispielsweise der Morgenszene und der darauf folgenden Szene zu minimieren.
 
-.Originale Aufnahme
-image::images/Kalt.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
+.Beispiel einer Farbkorrektur. Links Original, rechts korrigiertes Bild
+image::images/farbkorrektur.png[Farbkorrektur, pdfwidth=100%,align=center]
 
-.Kolorierte Aufnahme
-image::images/Warm.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
 
 === Musik
 
