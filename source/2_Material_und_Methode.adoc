@@ -34,17 +34,12 @@ Somit kann man auch verschiedene Handlungen aufzeichnen und dann vor sich haben 
 Das Storyboard hilft schlussendlich bei der Positionierung der Kamera.
 Und es vermeidet eine langweilige Kameraführung.
 
-.Storyboard
+.Drei Szenen aus dem Storyboard
 image::images/storyboard.png[Storyboard, pdfwidth=100%,align=center]
 
-.Endgültige Kalenderszene
-image::images/KalenderSS.png[Aufegenommene Kalenderszene, pdfwidth=67%,align=center]
+.Die fertig gestalteten Szenen
+image::images/storyboard_film.png[FertigeBilder, pdfwidth=100%,align=center]
 
-.Endgültige Szene mit Wurm Bewegung
-image::images/WurmbewegungSS.png[Endgültige Szene mit Wurm Bewegung, pdfwidth=67%,align=center]
-
-.Endgültige Spiegelszene
-image::images/SpiegelKugelSSpng[Endgültige Spiegelszene, pdfwidth=67%,align=center]
 
 === Knetmasse
 
