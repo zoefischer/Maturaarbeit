@@ -10,10 +10,10 @@ Dazu gehören Drehbuch, Material, Technik und anders.
 === Idee und Drehbuch
 
 Wie in der Einleitung erwähnt, war es mir anfänglich sehr wichtig eine Arbeit mit einer Aussage zu machen.
-Das behandelte Thema liegt oft in den Mündern der Leute, öfters wird es leider nicht ernstgenommen.
+Das behandelte Thema liegt oft in den Mündern der Leute, des öfteren wird es leider nicht ernstgenommen.
 Weil es mir persönlich aber sehr wichtig ist ein ernstzunehmends Produkt herzustellten, war es wichtig meine Ideen gut umzusetzen und gegen Aussen verständlich zu machen.
 Dafür brauchte ich ein Drehbuch.
-Noch nie hatte ich ein Drehbuch geschrieben oder angeschaut, deshalb wusste ich nicht wirklich was ich machen soll.
+Noch nie hatte ich zuvor ein Drehbuch geschrieben oder angeschaut, deshalb wusste ich nicht wirklich was ich machen soll.
 In meinem Skizzenbuch habe ich meine Ideen aufgeschrieben und aufgezeichnet.
 Durch diesen Prozess kam ich zu einer klareren Vorstellung des Ablaufs meiner Geschichte.
 Jedoch habe ich erstlich eine zu komplexe Idee.
@@ -21,7 +21,7 @@ Ich wollte mehrere Schauplätze herstellten und dadurch verschiedene Handelsträ
 Nach den ersten Filmsequenzen habe ich aber gemerkt, wie viel Arbeit es wirklich braucht.
 Deshalb habe ich mich ziemlich schnell an der ersten Idee festgehalten und diese soweit ausgebaut, wie es mir möglich war.
 
-.DrehbuchIdee
+.Anfängliche Idee
 image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=67%,align=center]
 
 
