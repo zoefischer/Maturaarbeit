@@ -1,44 +1,41 @@
 = Material und Methode
 
-Wie kam ich zu Plastilin, Umgang mit Material, Übungen
-Planung des Szenenbilds
-Organisation
-Aufbau
-Wahl der neutralen Hauptfarbe, Hintergrund
-
-Zu Beginn meines Projektes war ich mit der Vielfalt der Materialien, der Technik und der Arbeitsabläufe konfrontiert. Ich musste mich in verschiedene gestalterische, handwerkliche und technische Tätigkeiten einarbeiten und mir ein Knowhow aufbauen.
-
-Claymation
-Da mir die Verfahren völlig unbekannt waren, musste ich........
-
-Hauptprotagonisten - Materialentscheid
-
-Szene
-
-Filmen
-
-Filmproduktion
+Ich teile dieses Kapitel in drei Themen ein, wie sie auch bei einer richtigen Filmproduktion stattfinden.
+In der _Preproduction_ werden die Vorbereitungen für den Dreh gemacht.
+Dazu gehören Drehbuch, Material, Technik und anders.
 
 
-Fimo
-Plastilin
-Iphone
-Smartphonestativ
-StopMotion
-IStopMotion
-Dragonframe
-Nikon 7200
+== Preproduction
 
-Weil mir das Verfahren der "_((Claymation))_" noch völlig unbekannt war, musste ich mich erstmals an die verschiedenen Gebieten herantasten und zurecht finden.
-Durch das Ausprobieren von verschiedenen Materialien, habe ich mich schlussendlich für Plastilin als Hauptmaterial entschieden.
-Jetzt stand mir offen, ob ich die ganze Szene aus diesem Material herstellen möchte oder nicht.
+=== Idee und Drehbuch
+
+Wie in der Einleitung erwähnt, war es mir anfänglich sehr wichtig eine Arbeit mit einer Aussage zu machen.
+Das behandelte Thema liegt oft in den Mündern der Leute, öfters wird es leider nicht ernstgenommen.
+Weil es mir persönlich aber sehr wichtig ist ein ernstzunehmends Produkt herzustellten, war es wichtig meine Ideen gut umzusetzen und gegen Aussen verständlich zu machen.
+Dafür brauchte ich ein Drehbuch.
+Noch nie hatte ich ein Drehbuch geschrieben oder angeschaut, deshalb wusste ich nicht wirklich was ich machen soll.
+In meinem Skizzenbuch habe ich meine Ideen aufgeschrieben und aufgezeichnet.
+Durch diesen Prozess kam ich zu einer klareren Vorstellung des Ablaufs meiner Geschichte.
+Jedoch habe ich erstlich eine zu komplexe Idee.
+Ich wollte mehrere Schauplätze herstellten und dadurch verschiedene Handelstränge einleiten.
+Nach den ersten Filmsequenzen habe ich aber gemerkt, wie viel Arbeit es wirklich braucht.
+Deshalb habe ich mich ziemlich schnell an der ersten Idee festgehalten und diese soweit ausgebaut, wie es mir möglich war.
+
+=== Storyboard
+
+Wie in jedem Film, vor allem in animierten Filmen, braucht man für die konkrete Umsetzung von einer Idee zu einem Film ein Storyboard.
+Man skizziert auf ein Blatt Papier grob eine Kameraeinstellung.
+Das heisst die Perspektive, was auf dem Bildausschnitt zu sehen ist und beschreibt die Handlung in einem kurzen Satz.
+Somit kann man auch verschiedene Handlungen aufzeichnen und dann vor sich haben und umpositionieren, bis man einen ganzen Handlungsstrang hat.
+Das Storyboard hilft schlussendlich bei der Positionierung der Kamera.
+Und es vermeidet eine langweilige Kameraführung.
 
 
-== Knetmasse
+=== Knetmasse
 
 Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
-In allen Bastelläden wurde mir das Material _((Fimo))_ vorgeschlagen.
-Bei der Arbeit damit stellte sich aber heraus, dass er sehr schnell brüchig und hart wird.
+In allen Bastelläden, die ich besucht habe, wurde mir das Material _((Fimo))_ vorgeschlagen.
+Bei der Arbeit damit stellte sich aber heraus, dass dieses Material sehr schnell brüchig und hart wird.
 Dementsprechend war es für meine Arbeit nicht geeignet.
 
 _((Plastilin))_ erwies sich schlussendlich als das passendste Material.
@@ -51,9 +48,9 @@ Es ist nicht sehr stabil, es reissen also dünne Teile eines Objektes ab oder kn
 Die Standhaftigkeit eines Objektes ist sehr wichtig und somit ein wenig einschränkend, denn man muss für die Standfestigkeit immer einen breiten unteren Teil haben.
 
 
-== Software
+=== Software
 
-Um herauszufinden wie ich am besten meine Arbeit filmen kann, habe ich verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
+Weil es zu zeitaufwenig und ungenauer wäre einzelne Fotos zu schiessen und dann manuell in nacheinander abspielen zu lassen, habe ich recherchiert, um herauszufinden wie ich am besten meine Arbeit filmen kann. Ich habe verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
 Die erste Technik, die ich angewendet habe war das heruntergeladene App "_StopMotion Studio_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativ montiert.
 Dies erwies sich jedoch als nicht sehr geeignet, denn die Qualität des Filmes war nicht sehr überzeugend und unpraktisch zu bedienen, denn das iPhone auf dem Stativ war nicht sehr standhaft "stabil".
 Beim Bedienen des Auslösers muss man den Bildschirm berühren.
@@ -75,22 +72,25 @@ Mit der Testversion habe ich kurze Ausschnitte gefilmt und das komplizierte Prog
 Da die Resultate endlich überzeugend waren und alles funktionierte, entschied ich mich dass ich lieber Geld in ein gut funktionierendes Programm investieren möchte, als weitere Zeit zu verlieren.
 Deshalb kaufte ich mir die Software und die dazu passende Steuerkonsole.
 
-== Bühnenbau
+=== Bühnenbau
 
-Ich habe einen Puppenhaus artigen Grundriss mit Boden  konstruiert.
+Ich habe einen Puppenhaus artigen Grundriss mit Boden konstruiert.
 Ich habe meine Ideen umgesetzt und ein Häuschen aus Sperrholz zusammengebaut.
 Ich habe mich für den Bau eines Schlafzimmers entschieden, damit ich einen einheitlichen Raum zur Verfügung habe, der nicht nach jedem Filmprozess neu gestaltet oder umgebaut werden muss.
 Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
-Ausgestattet habe ich diesen raum mit selber gemachten Möbeln und Dekorationen.
+Ausgestattet habe ich diesen Raum mit selber gemachten Möbeln und Dekorationen.
 
-== Beleuchtung
+
+== Production
+
+=== Beleuchtung
 
 Bei der Beleuchtung der Szene habe ich mich ziemlich eingegrenzt.
 Ich habe mich auf eine Filmgrundlage basiert.
 Die Dreipunkt Beleuchtung benutzt man oft, um eine ganze Szene zu beleuchten und verschiedene Teile zu fokusieren.
 
 
-== Film / Fotografie
+=== Film und Fotografie
 
 Dank Barabara Burri, einer Bekannten, war es mir möglich mit einer professionellen Spiegelreflex Kamera, einer Nikon D7200 und einem xy Objektiv arbeiten zu können.
 Die Qualität meines Filmes ist auf diese Kamera zurück zu führen.
@@ -108,43 +108,49 @@ Ich habe in meinem Film bewusst versucht dieses Mittel der Gestaltung zu nutzen.
 In der untern gezeigten Szene kann man sehen, wie sich Schärfe verändert während die Figur den Raum betretet.
 Angekommen beim Spiegel, am eigentlichen Ort der Handlung, ist die Kamera so eingestellt, dass das Spiegelbild scharf ist und somit die Bewegungen der Figur gut erkennbar sind.
 
-.Tiefschärfe 1
+.Tiefenschärfe 1
 image::images/Tiefenschärfe.lwks.png[Tiefenschärfe 1, pdfwidth=50%,align=center]
 
 .Tiefenschärfe 2
 image::images/Tiefenschärfe2.lwks.png[Tiefenschärfe 2, pdfwidth=50%,align=center]
 
-== Ton und Foley
+=== Ton
 
 Gleichzeitig habe ich mit einem "((Zoom H5))"-Fieldrecorder Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
-Viele der Geräusche habe ich aus ähnlichen Tätigungen, wie die im Film gezeigten, aufgenommen, um es so wahrheitsgetreu wie möglich zu darstellen.
-Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der Schliessung der Türe, habe ich das quietschen meiner Kleiderschranktüre aufgenommen.
+Viele der Geräusche habe ich aus ähnlichen Tätigkeiten, wie die im Film gezeigten, aufgenommen, um es so wahrheitsgetreu wie möglich zu darstellen.
+Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der schliessenden Türe, habe ich das quietschen meiner Kleiderschranktüre aufgenommen.
 Es war ein interessanter und kreativer Prozess, diese einzelnen Szenen zu vertonen.
 Diese einzelnen habe ich als Clips in "Lightworks" importiert und an passender Stelle platziert.
-Hin und Da mussten gewisse Tonstreifen bearbeitet oder gekürzt werden.
-Weil ich die Videoaufnahmen jeweils mit 50% Schnelligkeit im Schnittprogramm laufen liess, durfte ich erst nach der Verlangsamung die jeweilig passende Tonspur aufnehmen.
+Hier und Da mussten gewisse Tonaufnahmen bearbeitet oder gekürzt werden.
+Weil ich die Videoaufnahmen jeweils mit 50% Schnelligkeit im Schnittprogramm laufen liess, konnte ich erst nach der Verlangsamung die jeweilig passende Tonspur aufnehmen.
 Ansonsten hätte sich bei der nachträglichen Bearbeitung die Tonspur in ihrer Tonhöhe unterschieden.
 
-== Schnitt
+== Postproduction
+
+Nach dem die etwa 3000 Fotos auf Festplatte gebannt sind, geht es im folgenden Schritt darum, aus diesem Rohmaterial einen Film zu machen.
+Am Anfang dachte ich, dass es sich dabei nur um das Schneiden von Filmsequenzen handelt, aber es sind noch weitere Schritte nötig, um ein fertiges Produkt erhalten.
+
+=== Schnitt
 
 Nach dem fotografieren einer Szene habe ich die noch einzelnen Fotos als Video exportiert und in das Schnittprogramm _(((Lightworks)))_ eingefügt.
 Dort habe ich stetig die Sequenzen hintereinander eingefügt und erhielt somit einen Groben Verlaufsstrang.
 Weiter hinzu kamen die Übergänge.
 Mir persönlich gefallen die Überblendungen am besten.
 Sie scheinen für mich am simpelsten und am natürlichsten fürs Auge.
-Den Vorspann und Abspann habe ich direkt in Lightworks in den bisdahin vorhandnen Film eingefügt und habe ihn mit verschiedenen Effekten bearbeitet.
+Den Vorspann und Abspann habe ich direkt in Lightworks in den vorhandenen Film eingefügt und mit verschiedenen Effekten bearbeitet.
 
 
 .Zeitachse in Lightworks
 image::images/Spuren.lwks.png[Zeitachse in Lightworks, pdfwidth=100%,align=center]
 
-== Farbkorrektur
+=== Farbkorrektur
 
-Ganz am Schluss meiner Arbeit musste ich noch die Farben im Film anpassen, weil die Unterschiede der verschiedenen Lichtereignissen zu grob waren.
+Ganz am Schluss meiner Arbeit musste ich noch die Farben im Film anpassen, weil die Unterschiede der verschiedenen Lichtereignissen zu gross waren.
+TODO: Farbtemperatur
 Nach Recherche und Versuchen habe ich selber herausgefunden, wie man die Farben im "Lightworks" korrigieren kann.
 Diese Arbeit ist nicht sehr einfach und basiert auf dem indivuduellen Auge und Geschmack.
 Ich habe im allgemeinen versucht mein Film wärmer zu kolorieren, denn die orignalen Aufnahmen hatten einen starken Blaustich.
-Ausserdem habe ich versuch, die Veränderungen von beispielsweise der Morgenszene und der darauf folgenden Szene zu minimieren.
+Ausserdem habe ich versucht, die Veränderungen von beispielsweise der Morgenszene und der darauf folgenden Szene zu minimieren.
 
 .Originale Aufnahme
 image::images/Kalt.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
@@ -152,7 +158,7 @@ image::images/Kalt.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
 .Kolorierte Aufnahme
 image::images/Warm.lwks.png[Zeitachse in Lightworks, pdfwidth=50%,align=center]
 
-== Musik
+=== Musik
 
 Die Musik, die ich für meinen Vorspann und Abspann gewählt habe, habe ich aus einer xy Webseite für Lizenzfreie Musik genommen.
 Mir war es wichtig durch die Musik ein Spannungsgefüge aufzubauen.
