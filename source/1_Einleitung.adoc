@@ -12,19 +12,19 @@ Auf der einen Seite habe ich bereits im Kindergarten sehr gerne gebastelt und mo
 Auf der anderen Seite sah ich mir gerne animierte Filme an.
 Mein erster Film, den ich im Kino gesehen habe, war "Wallace & Gromit". Dieser war nicht nur animiert sondern setzte den Claymationfilm in Perfektion um.
 
-Doch die eigentliche Inspiration für meine Maturitätsarbeit fand ich im Gymnasium, in einer Französisch Lektion, kurz vor den Sportferien 2016.
+.Wallace und Gromit
+image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=33%,align=center]
+
+Doch die eigentliche Inspiration für meine Maturitätsarbeit fand ich im Gymnasium, in einer Französisch Lektion, kurz vor den Sportferien 2017.
 Zum Abschluss des Semesters sahen wir im Unterricht den Stop-Motion Film von _Claude Barras_, "_Ma vie de courgette_" an.
 Ich war begeistert von der Fähigkeit des Künstlers, eine solch tragische, tief traurige Geschichte so lebhaft und einfühlsam übermitteln zu können.
 Die vorliegende Arbeit verbindet deshalb meine Interessen an künstlerischem  Arbeiten und der Liebe zum animierten Film.
 
-.Wallace und Gromit
-image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=33%,align=center]
-
 Durch äussere Einflüsse, wie zum Beispiel die Schönheitsideale im "Bravo Magazin" oder das Körperbild, welches in "Germanys Next Topmodel" publiziert wird, bin ich seit früh damit konfrontiert gewesen, ob und wie ich mit meinem Körper zufrieden bin.
 Während ich anfangs Primarschule noch mit meiner Figur zufrieden war, hat sich mein Körpergefühl über die Jahre stark verändert.
-Die Ansprüche, die die heutige Zeit und mit ihr die Gesellschaft, stellen, führten dazu, dass ich einem Ideal entsprechen wollte und deshalb bis heute mit meiner Figur unzufrieden bin.
+Die Ansprüche, die die heutige Zeit und mit ihr die moderne Gesellschaft, stellen, führten dazu, dass ich einem Ideal entsprechen wollte und deshalb bis heute mit meiner Figur unzufrieden bin.
 Dabei ist es so, dass ich kognitiv weiss, dass ich diesen Idealen nicht entsprechen müsste, es mir aber schwer fällt, dem impliziten Druck von Aussen nicht stattzugeben.
-Weil mich dieses Thema seit vielen Jahren beschäftigt und ich der Meinung bin, dass sich Kinder anfangs Jugend nicht diesen Zwängen unterordnen sollen, habe ich mich entschieden, als Inhalt meiner Maturitätsarbeit das Thema "Körperbewusstsein" zu bearbeiten.
+Weil mich dieses Thema seit vielen Jahren beschäftigt und ich der Meinung bin, dass sich Jugendliche anfangs ihrer Pubertät nicht diesen Zwängen unterordnen sollen, habe ich mich entschieden, als Inhalt meiner Maturitätsarbeit das Thema "Körperbewusstsein" zu bearbeiten.
 
 == Fragestellung und Ziel
 
@@ -34,13 +34,9 @@ Es war mir aber nicht klar, wie gross dieser Aufwand tatsächlich ist und welche
 Ich bin davon ausgegangen, dass ich mich vor allem mit dem Thema _Animation_ und _Stop-Motion_ beschäftigen müsse.
 Während der Arbeit stellte ich fest, dass ein Film noch viele weitere Aspekte wie _Claymation_, _Fotographie_, _Beleuchtung_, _Ton_, _Foley_, _Schnitt_, _Dramaturgie_ enthält, in die ich mich erstmals ernsthaft einarbeiten musste.
 
-Ziel meiner Arbeit ist es, einen mit simpeln gestalterischen Mittel entworfenen _Stop-Motion_ Kurzfilm zu drehen.
-Dieser soll etwas 2 Minuten lang sein.
-Die Hauptfigur soll sowohl in Materialisierung und Form so einfach wie möglich gestaltet sein und aus dem Material Plastilin bestehen.
-Im Kurzfilm geht es um das Thema Körpernorm und Körperwahn.
-Der Zuschauer soll zum Nachdenken animiert werden.
-Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlung aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer Parallelen zu schon bekannten Ereignissen oder Gefühlen ziehen.
-Der Zuschauer soll die Handlung selbst interpretieren und deuten.
+Ziel meiner Arbeit ist es, einen mit simpeln gestalterischen Mittel entworfenen _Stop-Motion_ Kurzfilm zum Thema Körpernorm und Körperwahn, von etwa zwei Minuten Dauer, zu drehen.
+Die Hauptfigur soll sowohl in Materialisierung und Form so einfach wie möglich gestaltet sein und aus einem knetbaren Material bestehen.
+Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlungen aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer Parallelen zu eigenen bekannten Ereignissen oder Gefühlen ziehen und die Handlung selbst interpretieren und deuten können.
 
-Aufgrund dieses Zieles musste ich erstens herausfinden wie ich einen Film animieren und eine Geschichte erzählen kann.
-Zweitens musste ich mir für die Entwicklung meiner Figur überlegen, wie ich mit einfachen Mitteln Emotionen, Verhalten, Gedanken und Botschaften ausdrücken kann. Und drittens wollte ich mich mit dem Material befassen, um es möglichst variantenreich und für meinen Inhalt optimal einsetzen zu können.
+Aufgrund dieses Zieles musste ich mir erstens erarbeiten wie ich einen Film animieren und eine Geschichte erzählen kann.
+Zweitens musste ich mir für die Entwicklung meiner Figur überlegen, wie ich mit einfachen Mitteln Emotionen, Verhalten, Gedanken und Botschaften ausdrücken kann. Drittens wollte ich mich mit dem Material befassen, um es möglichst variantenreich und für meinen Inhalt optimal einsetzen zu können.
