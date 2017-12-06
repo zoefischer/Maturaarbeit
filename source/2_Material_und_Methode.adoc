@@ -37,6 +37,15 @@ Und es vermeidet eine langweilige Kameraführung.
 .Storyboard
 image::images/storyboard.png[Storyboard, pdfwidth=67%,align=center]
 
+.Endgültige Kalenderszene
+image::images/KalenderSS.png[Aufegenommene Kalenderszene, pdfwidth=67%,align=center]
+
+.Endgültige Szene mit Wurm Bewegung
+image::images/WurmbewegungSS.png[Endgültige Szene mit Wurm Bewegung, pdfwidth=67%,align=center]
+
+.Endgültige Spiegelszene
+image::images/SpiegelKugelSSpng[Endgültige Spiegelszene, pdfwidth=67%,align=center]
+
 === Knetmasse
 
 Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
