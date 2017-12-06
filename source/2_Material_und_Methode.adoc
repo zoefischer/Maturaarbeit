@@ -43,10 +43,17 @@ Um mich daran zu gewöhnen habe ich eine Zeit lang oft damit modelliert und vers
 Es wurde mir schnell klar, dass Plastilin für vieles sehr passend ist.
 Es lassen sich sowohl einfarbige, als auch mehrfarbige sowie gemischte Objekte herstellen.
 Von dick zu dünn ist ziemlich alles möglich.
+Ich habe Versuche gemacht, bei denen ich mich darauf geachtet habe verschiedene Oberflächen Strukturen nach zu bilden.
 Einen Nachteil hat das Material aber auch.
 Es ist nicht sehr stabil, es reissen also dünne Teile eines Objektes ab oder knicken sehr schnell ein.
+Schwierigkeit, dass das Material fest ist aber durchlässig wirkern soll.
 Die Standhaftigkeit eines Objektes ist sehr wichtig und somit ein wenig einschränkend, denn man muss für die Standfestigkeit immer einen breiten unteren Teil haben.
 
+.Erdnuss Nachbildung
+image::images/Erdnuss2.jpg[Erdnuss Nachbildung, pdfwidth=33%,align=center]
+
+.Feuer Nachbildung
+image::images/Feuer.jpg[Feuer Nachbildung, pdfwidth=33%,align=center]
 
 === Software
 

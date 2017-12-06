@@ -62,6 +62,9 @@ Diese Situation soll das wirkliche Leben widerspiegeln.
 Wie in der Einleitung erklärt, befasse ich mich persönlich ständig mit diesem Thema und kenne diese Situation nur all zu gut.
 Deshalb war es mir wichtig sie in meinem Film aufzunehmen und zu thematisieren.
 
+.Erster Versuch der Hauptfiguren
+image::images/Figuren.jpg[Erster Versuch der Figuren, pdfwidth=50%,align=center]
+
 
 == Zweite Figur
 
