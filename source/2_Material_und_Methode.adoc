@@ -35,7 +35,7 @@ Das Storyboard hilft schlussendlich bei der Positionierung der Kamera.
 Und es vermeidet eine langweilige Kameraführung.
 
 .Storyboard
-image::images/storyboard.png[Storyboard, pdfwidth=67%,align=center]
+image::images/storyboard.png[Storyboard, pdfwidth=100%,align=center]
 
 === Knetmasse
 
