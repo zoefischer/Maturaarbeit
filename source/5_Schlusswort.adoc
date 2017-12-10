@@ -2,8 +2,8 @@
 
 == Diskussion
 
-Um mein Produkt besser zu reflektieren, habe ich einen Ausschnitt aus einem anderen Stop-Motion Film analysiert und mit meiner Arbeit verglichen.
-Adrian Flückiger's Film "What's Next" handelt von einem Jungen, der einen anderen jungen Bub an einen Stuhl fesselt, ihm den Mund verbindet und ein Erpresservideo machen will.
+Um meinen Film zu reflektieren, habe ich einen Ausschnitt aus einem anderen Stop-Motion Film analysiert und mit meiner Arbeit verglichen.
+Adrian Flückiger's Film _What's Next_ <<flückiger>> handelt von einem Jungen, der einen anderen jungen Bub an einen Stuhl fesselt, ihm den Mund verbindet und ein Erpresservideo machen will.
 Am Schluss stellt sich heraus, dass er seinen kleinen Bruder gefesselt hat und in ihrem gemeinsamen Zimmer das Video dreht.
 Adrian Flückiger schafft es in seinem kurzen Film eine Spannungskurve aufzubauen, die den Zuschauer in die Handlung hinein zieht, so dass man unbedingt das Ende der Geschichte wissen möchte.
 
@@ -12,26 +12,29 @@ Das Schlafzimmer ist der Drehort und es erinnert an ein Puppenhaus.
 Der grundlegende Unterschied bei der Innenausstattung, ist die Detaillierung.
 Während ich die Ausstattung auf das wesentliche reduziert habe, hat er in seinem Film auf jedes kleinste Detail geachtet.
 Das Bühnenbild scheint fast identisch zu einem richtigen Schlafzimmer zu sein.
-Die Materialien, die Flückiger in seinem Film braucht, sind fast die gleichen wie ich sie habe.
-Er benutzt abgesehen von den Figuren gezeichnete Bilder die an der Wand des Raumes hängen, Drohbriefe, die er aus normalem Papier und aufgeklebten Papierfetzen herstellt.
-Dies erinnert mich an die zwei gezeichneten Poster, die ich in meinem "Puppenhaus" aufgehängt habe.
-Die Sturmmaske, die die Hauptperson trägt scheint von Hand gestrickt zu sein.
+Die Materialien, die Flückiger in seinem Film braucht, sind ebenfalls fast die gleichen wie die, die ich verwende.
+Er benutzt, abgesehen von den Figuren, gezeichnete Bilder, die an der Wand des Raumes hängen; Drohbriefe, die er aus normalem Papier und aufgeklebten Papierfetzen herstellt.
+Dies erinnert mich an die zwei gezeichneten Poster, die ich in meinem Schlafzimmer aufgehängt habe.
+Die Sturmmaske, die die Hauptperson trägt, scheint von Hand gestrickt zu sein.
 Die Decke, das Kissen und der Teppich des Zimmers, sind in meinem Film ebenfalls von Hand gestrickt.
+
 Flückigers Figuren sind sehr interessant aufgebaut.
-Es scheint als hätten sie einen beweglichen Körper, der mit Stoffkleidung bedeckt ist und einen festen Kopf und feste Hände, die am Körper angemacht sind.
-Nur die Augen können sich bewegen und dienen somit als einzige Möglichkeit für Mimik.
-Um Gefühle und Ausdrücke der Figuren zu zeigen, arbeitet Flückiger intestiv mit der Vertonung des Filmes.
-Die Hintergrundmusik verleiht der Handlung eine unbeschreibliche Anspannung, ausserdem schafft er es mit Geräuschen die Emotionen der Figuren dem Zuschauer zu vermitteln.
-Ausschlag gebend für die Dramaturgie des Kurzfilmes ist ausserdem die Beleuchtung.
-Mit Hilfe der Insenzierung von Schatten, schafft es Flückiger die Situation viel intensiver zu gestalten.
+Es scheint, als hätten sie einen beweglichen Körper, der mit Stoffkleidung bedeckt ist und einen festen Kopf und feste Hände, die am Körper angemacht sind.
+Nur die Augen können sich bewegen und sind somit die einzige Möglichkeit um Mimik darzustellen.
+Um Gefühle und Ausdrücke der Figuren zu zeigen, arbeitet Flückiger intensiv mit dem Ton und Geräuschen.
+Die Hintergrundmusik verleiht dem Film zusätzlich Spannung.
+Ausserdem schafft er es, mit Geräuschen die Emotionen der Figuren zu vermitteln.
+Ausschlaggebend für die Dramatik des Kurzfilmes ist ausserdem die Beleuchtung.
+Mit Hilfe der Inszenierung von Schatten, gelingt es Flückiger gewisse Situationen intensiver zu gestalten.
 Kleine Objekte wirken durch die klaren Schatten riesig.
-Ausserdem werden Bewegungen und Handlungen mit Hilfe des Schattens gezeigt.
-Beispielsweise wo die Kamera nur den Schlitz unter der Türe filmt und man den Schatten einer Person erkennen kann.
+Ausserdem werden Bewegungen und Handlungen mit Hilfe von Schatten gezeigt.
+Beispielsweise dort, wo die Kamera nur den Schlitz unter einer Tür filmt und man den Schatten einer Person erkennen kann.
+
 Interessant ist auch der Unterschied der Beleuchtung der Figuren.
-Es scheint als hätte Flückiger gewollt ein einzelnes Licht auf das Opfer gerichtet, damit diese im Fokus steht, während der Täter durch das eher dunkel wirkt.
+Es scheint als hätte Flückiger gewollt ein einzelnes Licht auf das Opfer gerichtet, damit diese im Fokus steht, während der Täter dadurch eher dunkel wirkt.
 Flückiger hat nachträglich Effekte mit dem Computer hinzugefügt, die die Handlung der Geschichte klarer machen.
 Geschickterweise hat er eine Kamera eingebaut, die zur Geschichte gehört.
-Somit kann er mit einer allwissenden, beobachtenden Kamera filmen und die Hauptperson der Geschichte filmt mit einer anderen Kamera.
+Somit kann er mit einer allwissenden, beobachtenden Kamera filmen während die Hauptperson der Geschichte mit einer eigenen Kamera filmt.
 Die Nahaufnahmen des Opfers sind somit durch die "Handlungskamera" legitimiert und logisch eingesetzt.
 Sie bietet ausserdem Hilfe für das Verständnis des Betrachters.
 
@@ -41,17 +44,16 @@ Flückiger hat mit Hilfe seines Teams einen sehr authentischen, lebhaften Stop-M
 
 Das zu Beginn gestellte Ziel war es, einen rund 2 Minuten langen Kurzfilm in _Stop-Motion_ Technik zu drehen, der den Zuschauer zum Nachdenken anregen soll.
 Ich habe ungefähr 3000 einzelne Bilder fotografiert, die nacheinander abgespielt, einen etwa 4 Minuten langen Film ergeben.
-Mein Produktionsziel habe ich somit erreicht.
+Mein Produktionsziel habe ich damit erreicht.
 Zusätzlich habe ich mir verschiedenste Techniken, die ich für die Produktion eines Stop-Motion Film brauchte, selber beigebracht.
 Anhand von simpeln Figuren habe ich versucht, menschliche Emotionen und Verhalten auszudrücken, die dem Zuschauer bekannt vorkommen sollen.
-Der Zuschauer sollte damit die Geschichte anhand von diesen Eindrücken selber erarbeiten.
 Anfangs wollte ich eine Handlung zeigen, die kein "Happy End" hat und sich als endlose Schlaufe abspielen lässt.
-Im Laufe des Projekts habe ich mich aber umentschieden, zu Gunsten eines interessanteren Spannungsbogen, und habe somit mein ursprüngliches Ziel der Handlung verworfen.
-Durch die Reaktionen von Bekannten und Freunden, die meinen Film angeschaut haben, kann ich sagen, dass die Handlung klar erkannt wurde, ohne dass ich sie vorher erzählt oder erklärt habe.
+Im Laufe des Projekts habe ich mich aber, zu Gunsten eines interessanteren Spannungsbogens, umentschieden und somit mein ursprüngliches Ziel verworfen.
+Durch die Reaktionen von Bekannten und Freunden, die meinen Film gesehen haben, kann ich sagen, dass die Handlung klar erkannt wird, ohne dass ich sie vorher erzählen oder erklären muss.
 
-Im Verlauf meiner Arbeit hatte ich viele zusätzliche Ideen und Vorstellungen.
+Im Verlauf meiner Arbeit bekam ich viele zusätzliche Ideen und Vorstellungen.
 Ich habe mir einen interessanten, abwechslungsreichen Kurzfilm vorgestellt, mit verschiedenen Handlungssträngen.
-Doch es zeigte sich, dass meine Vorstellungen weit über meiner zeitlichen Kapazität lagen und im Rahmen dieser Maturitätsarbeit sich nicht realisieren liessen.
+Doch es zeigte sich, dass meine Vorstellungen weit über meiner zeitlichen Kapazität lagen und sich nciht im Rahmen dieser Maturitätsarbeit realisieren liessen.
 Ich habe mich darauf beschränkt, den Film in einem einzigen Raum und mit einer einzigen Lichteinstellung spielen zu lassen.
 
 Was mir ebenfalls im Weg stand, war mein Hang zum Perfektionismus.
@@ -59,15 +61,12 @@ Ich habe mich oft in der Gestaltung von Details und Feinschliffen in der Produkt
 Im Rückblick wäre es besser gewesen, wenn ich mich auf das Wesentliche fokussiert hätte.
 So hätte ich mehr Zeit in die Auseinandersetzung mit dem Material investieren können, was sich im Film mit verschiedenen spielerischen Elementen manifestiert hätte.
 
-(TODO: Mami Vorschlag)
-
 == Ausblick
 
 Am Ende jedes Projektes blickt man zurück und denkt sich, dass noch vieles hätte gemacht und erweitert werden können.
 Ich habe mich im Verlauf meiner Arbeit bewusst auf das Erstellen eines kurzen Filmes beschränkt, der nur ein Bühnenbild und relativ einfache Figuren braucht, um am Ende ein gutes, in sich abgeschlossenes Projekt zu präsentieren.
 
 Gerne hätte ich weitere Elemente hinzugefügt.
-
 Das könnte auf verschiedenen Ebenen realisiert werden.
 
 Das bestehende Film- und Tonmaterial liesse sich zu einer neuen Geschichte zusammensetzen, indem man im Schnittprogramm einen anderen Ablauf erstellt.
@@ -87,4 +86,4 @@ Viel mehr Aufwand ist aber das Entwickeln der Idee, das schneiden und das Verton
 Zusätzlich zum Aufwand, den ich oben beschrieben habe, kommt das Bauen der Kulisse.
 Je nach Komplexität der Szenerie entstehen hier mehrere Tage Aufwand.
 
-Falls man die Zeit findet, wäre es sicherlich spannend sich in die verschiedenen Richtungen zu vertiefen.
+Falls ich die Zeit finde, wäre es sicherlich spannend mich in die verschiedenen Richtungen zu vertiefen und einen längeren, komplexeren Film zu drehen.

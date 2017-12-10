@@ -2,12 +2,13 @@
 = Literaturverzeichnis
 
 [bibliography]
-- [[[negenborn]]] Negenborn, Daniel: 'Dreipunkt Beleuchtung', http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.17 15:20)
+- [[[negenborn]]] Negenborn, Daniel: 'Dreipunkt Beleuchtung', http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.2017)
 
 - [[[Strauch16]]] Strauch, Thomas; Engelke, Carsten: 'Filme machen',Wilhelm Fink, Paderborn, 2016
 
-- [[[guldies]]] Alex
-
-- [[[viversum]]], Viversum: 'Bedeutung der Farbe Weiss', http://www.viversum.ch/online-magazin/bedeutung-der-farbe-weiss (Abgerufen am 02.12.17)
+- [[[viversum]]], Viversum: 'Bedeutung der Farbe Weiss', http://www.viversum.ch/online-magazin/bedeutung-der-farbe-weiss (Abgerufen am 02.12.2017)
 
 - [[[hurni]]], Hurni, Andreas : 'Die Drittelregel', https://andreashurni.ch/bildgestaltung/geometrie/goldenerschnitt.htm#drittelregel (Abgerufen am 04.12.2017)
+
+- [[[flückiger]]], Flückiger, Adrian : 'What's Next',
+http://www.umaer.ch/whats-next/ (Abgerufen am 10.12.2017)

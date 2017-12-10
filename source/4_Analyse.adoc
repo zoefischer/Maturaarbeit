@@ -2,17 +2,17 @@
 
 == Bühnenbild
 
-Das Schlafzimmer ist für mich ein intimer Ort, indem sich die Persönlichkeit des Bewohners spiegelt.
-Ausserdem kann das Schlafzimmer, als ein Ort der Konfrontation mit sich selbst, dienen.
-Desweiteren ist es ein lokaler Ort für Routinevorgänge.
-Tag ein Tag aus kriecht man Morgens mühselig aus dem Bett und kommt Abends wieder am selben Ort zur Ruhe.
-Dieses Phänomen habe ich in meinem Kurzfilm dargestellt.
-Das Betrachten des Ebenbilds im Spiegel stellt im Film eine tägliche Routine dar.
+Das Schlafzimmer ist für mich ein intimer Ort, in dem sich die Persönlichkeit des Bewohners spiegelt.
+Ausserdem kann das Schlafzimmer als ein Ort der Konfrontation mit sich selbst dienen.
+Schliesslich ist es ein Ort für Routinevorgänge.
+Tag für Tag kriecht man Morgens mühselig aus dem Bett und kommt Abends wieder am selben Ort zur Ruhe.
+Diesen Vorgang habe ich in meinem Kurzfilm dargestellt.
+Das Betrachten des Ebenbilds stellt Spiegel im Film ebenfalls eine tägliche Routine dar.
 
 Die Farbe der Ausstattung habe ich ganz bewusst in Weiss umgesetzt.
 Einerseits habe ich diese Farbe benutzt, um die Hauptfigur in den Fokus zu setzen.
 Andererseits habe ich verschiedene Bedeutungen der Farbe Weiss recherchiert und fand einiges in der Symbolik passend für mein Projekt.
-Wie viversum <<viversum>> in ihrem Text zur Spiritualität schreibt:
+Zum Beispiel schreibt viversum <<viversum>> in ihrem Text zur Spiritualität:
 
 [quote]
 --
@@ -25,11 +25,11 @@ Doch Weiß ist noch so viel mehr als eine Farbe: In fernöstlichen Kulturen wie 
 Sie festigt uns innerlich und befreit uns von störenden Gedanken."
 --
 
-Der weisse Raum, der ruhig und frei von Ablenkungen ist. Der Raum, in dem sich die Hauptperson von ihren störenden Gedanken und Problemen entfernt und sich von seiner Trauer befreit.
+Der weisse Raum, der ruhig und frei von Ablenkungen ist. Der Raum, in dem sich die Hauptperson von ihren störenden Gedanken und Problemen entfernt und sich von ihrer Trauer befreit.
 
-Mit Fortschreiten des Projekts sind auf Boden und Wänden des Raums Rückstände der Knetfiguren und somit der Handlung sichtbar geworden.
+Mit Fortschreiten des Projekts sind auf Boden und Wänden des Raums Rückstände der Knetfiguren und damit der Handlung sichtbar geworden.
 Jede Szene, die ich gespielt und gefilmt habe, hat Spuren von farbiger Knetmasse im Raum hinterlassen.
-Damit wird der Ausdruck _Man hinterlässt überall seine Spuren_ symbolisiert.
+Damit wird der Ausdruck _Man hinterlässt überall seine Spuren_ ganz konkret sichtbar.
 
 
 == Hauptfigur
@@ -44,7 +44,8 @@ Damit will ich aufzeigen, dass nicht die Veränderung des Körperbilds Zufrieden
 Das Material _Plastilin_ hat sich für diesen Zweck sehr bewährt, denn das Material ist sehr gut verformbar und wird auch nach langer Zeit nicht spröde.
 Man kann es deshalb gut über mehrere Tage oder Wochen stehen lassen.
 Dies erwies sich als sehr praktisch, denn ich konnte mit einer einzigen Masse arbeiten und musste nicht bei jedem Filmversuch eine neue Form mit neuer Knetmasse herstellen.
-Ausserdem hat Plastilin eine der menschlichen Haut ähnliche Oberflächenbeschaffenheit, was das modelieren einfacher gestaltete.
+Die Figur hatte also über die ganze Zeit der Dreharbeit den gleichen Körper, der sich veränderte.
+Ausserdem hat Plastilin eine der menschlichen Haut ähnliche Oberflächenbeschaffenheit, was das Modellieren einfacher gestaltete.
 Die Handlung konnte mit der Wahl dieses Materials sehr gut umgesetzt werden.
 
 Die Farbe Blau habe ich gewählt, weil sie für mich etwas kaltes und trauriges ausstrahlt.
@@ -56,25 +57,30 @@ Gut erkennbar sind die Auswirkungen der Einflüsse, bei der Szene in der die Fig
 Nach dem Anschauen der "perfekten" Figuren fühlt sich die Hauptfigur traurig und unzufrieden.
 Diese Situation soll das wirkliche Leben widerspiegeln.
 Wie in der Einleitung erklärt, befasse ich mich persönlich ständig mit diesem Thema und kenne diese Situation nur all zu gut.
-Deshalb war es mir wichtig sie in meinem Film aufzunehmen und zu thematisieren.
+Deshalb war es mir wichtig, sie in meinem Film aufzunehmen und zu thematisieren.
 
-.Erster Versuch der Hauptfiguren
+.Erster Versuch die Hauptfiguren zu modellieren
 image::images/Figuren.jpg[Erster Versuch der Figuren, pdfwidth=50%,align=center]
 
+Die Figuren in Abbildung 12 enstanden während der Ideenentwicklung.
+Ich wollte verschiedene Körperformen zeigen und habe sie durch geometrische Grundformen abstrahiert.
+Ich dachte zuerst, dass ich zum Zeigen von Emotionen Augen, Augenbrauen und Mund benötige.
+Es stellte sich jedoch heraus, dass diese Hilfsmittel gar nicht nötig waren, um die Gefühle auszudrücken.
+Ausserdem wollte ich mich von den Emoji ähnlichen Figuren entfernen.
 
 == Zweite Figur
 
 Die zweite Figur tritt zur Unterstützung auf.
 Sie soll die Hauptfigur dazu ermuntern sich selber zu akzeptieren und zu realisieren, dass alles an ihr Gut ist.
-Ein wichtiger Aspekt für die Aussage der Handlung ist, dass die beiden Figuren beim ersten Treffen einen identischen Körperbau besitzen - nämlich den einer Kugel.
+Ein wichtiger Aspekt für die Aussage der Handlung ist, dass die beiden Figuren beim ersten Treffen einen identischen Körperbau besitzen -- nämlich den einer Kugel.
 
 Der grundlegende Unterschied ist der Gemütszustand der beiden.
-Die grüne Figur ist, trotz der gleichen Statur vollkommen zufrieden und im Einklang mit sich selbst und kann sich erfreut im Spiegel ansehen.
+Die grüne Figur ist, trotz der gleichen Statur, vollkommen zufrieden und im Einklang mit sich selbst und kann sich erfreut im Spiegel ansehen.
 Die blaue Kugel hingegen ist alles andere als zufrieden.
 Die Umarmung der Beiden ist der Auslöser für die Besserung.
 Es ist ein Austausch an Emotionen und Unterstützung.
-Wenn man genau Acht gibt, kann man erkennen, dass nach der Umarmung der beiden, Rückstände der grünen Figur am Körper der blauen Figur hängen blieben.
-Dies soll diesen Austausch deutlich machen und aufzeigen, dass sie jetzt nach der Umarmung und der weitergegebenen Vernunft, zufrieden sein kann und sich selber, so wie sie ist akzeptieren kann.
+Wenn man genau Acht gibt, kann man erkennen, dass nach der Umarmung der beiden, Rückstände der grünen Figur am Körper der blauen Figur hängen bleiben.
+Dies macht diesen Austausch deutlich und zeigt auf, dass sie jetzt nach der Umarmung und der weitergegebenen Vernunft, zufrieden sein und sich selber, so wie sie ist, akzeptieren kann.
 
 == Kalender
 
@@ -88,3 +94,5 @@ Man erkennt das Schlafzimmer in der Totalen und die sich darin immer mehr sammel
 Die Dauer der Handlung wird so noch einmal aufgenommen und betont.
 
 == Spiegel
+
+Da muss ich noch was schreiben
