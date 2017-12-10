@@ -4,7 +4,7 @@
 
 Ein für mich passendes Thema für meine Maturitätsarbeit zu finden, war nicht einfach.
 In den ersten Jahren des Gymnasiums war ich mir immer sicher, dass ich meine Abschlussarbeit im Fachbereich: _Bildnerisches Gestalten_ machen werde.
-Mit den Jahren wurde ich aber immer unsicherer ob das die richtige Entscheidung sei, denn der Anspruch an künstlerischem Ausdruck im Bildnerischen Gestalten wurde laufend höher.
+Mit den Jahren wurde ich aber immer unsicherer, ob das die richtige Entscheidung sei, denn der Anspruch an künstlerischem Ausdruck im Bildnerischen Gestalten wurde laufend höher.
 Schlussendlich habe ich mich dazu entschieden, die Maturitätsarbeit als ein Gefäss für etwas Neues zu nutzen und mich an ein mir komplett unbekanntes Feld heranzuwagen.
 
 Ich habe zwei Leidenschaften verbunden, die mich seit der Kindheit begleiten.
@@ -16,14 +16,14 @@ Mein erster Film, den ich im Kino gesehen habe, war "Wallace & Gromit". Dieser w
 image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=33%,align=center]
 
 Doch die eigentliche Inspiration für meine Maturitätsarbeit fand ich im Gymnasium, in einer Französisch Lektion, kurz vor den Sportferien 2017.
-Zum Abschluss des Semesters sahen wir im Unterricht den Stop-Motion Film von _Claude Barras_, "_Ma vie de courgette_" an.
+Zum Abschluss des Semesters schauten wir im Unterricht den Stop-Motion Film von _Claude Barras_, "_Ma vie de courgette_" an.
 Ich war begeistert von der Fähigkeit des Künstlers, eine solch tragische, tief traurige Geschichte so lebhaft und einfühlsam übermitteln zu können.
 Die vorliegende Arbeit verbindet deshalb meine Interessen an künstlerischem  Arbeiten und der Liebe zum animierten Film.
 
 Durch äussere Einflüsse, wie zum Beispiel die Schönheitsideale im "Bravo Magazin" oder das Körperbild, welches in "Germanys Next Topmodel" publiziert wird, bin ich seit früh damit konfrontiert gewesen, ob und wie ich mit meinem Körper zufrieden bin.
 Während ich anfangs Primarschule noch mit meiner Figur zufrieden war, hat sich mein Körpergefühl über die Jahre stark verändert.
 Die Ansprüche, die die heutige Zeit und mit ihr die moderne Gesellschaft, stellen, führten dazu, dass ich einem Ideal entsprechen wollte und deshalb bis heute mit meiner Figur unzufrieden bin.
-Dabei ist es so, dass ich kognitiv weiss, dass ich diesen Idealen nicht entsprechen müsste, es mir aber schwer fällt, dem impliziten Druck von Aussen nicht stattzugeben.
+Dabei ist es so, dass ich kognitiv weiss, dass ich diesen Idealen nicht entsprechen müsste, es mir aber schwer fällt, dem impliziten Druck von Aussen nicht nachzugeben.
 Weil mich dieses Thema seit vielen Jahren beschäftigt und ich der Meinung bin, dass sich Jugendliche anfangs ihrer Pubertät nicht diesen Zwängen unterordnen sollen, habe ich mich entschieden, als Inhalt meiner Maturitätsarbeit das Thema "Körperbewusstsein" zu bearbeiten.
 
 == Fragestellung und Ziel
@@ -39,4 +39,4 @@ Die Hauptfigur soll sowohl in Materialisierung und Form so einfach wie möglich 
 Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlungen aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer Parallelen zu eigenen bekannten Ereignissen oder Gefühlen ziehen und die Handlung selbst interpretieren und deuten können.
 
 Aufgrund dieses Zieles musste ich mir erstens erarbeiten wie ich einen Film animieren und eine Geschichte erzählen kann.
-Zweitens musste ich mir für die Entwicklung meiner Figur überlegen, wie ich mit einfachen Mitteln Emotionen, Verhalten, Gedanken und Botschaften ausdrücken kann. Drittens wollte ich mich mit dem Material befassen, um es möglichst variantenreich und für meinen Inhalt optimal einsetzen zu können.
+Zweitens musste ich mir für die Entwicklung meiner Figur überlegen, wie ich mit einfachen Mitteln Emotionen, Verhalten, Gedanken und Botschaften ausdrücken kann. Drittens wollte ich mich mit dem Material befassen, um es möglichst variantenreich und für meinen Inhalt optimal einzusetzen.

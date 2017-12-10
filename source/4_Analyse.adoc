@@ -2,16 +2,12 @@
 
 == Bühnenbild
 
-Ich habe mich für den Bau eines Schlafzimmers entschieden, damit ich einen einheitlichen Raum zur Verfügung habe, der nicht nach jedem Filmprozess neu gestaltet oder umgebaut werden muss.
-Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
-Ausserdem projiziert für mich das Schlafzimmer ein Teil der Persönlichkeit, die in diesem Raum haust.
-Das Schlafzimmer dient als ein Ort der Konfrontation mit sich selber.
-An keinem anderen Ort ist man so auf sich selber fokusiert wie im eigenen Schlafzimmer.
-Desweiteren ist das Schlafzimmer ein lokaler Ort für Routine.
+Das Schlafzimmer ist für mich ein intimer Ort, indem sich die Persönlichkeit des Bewohners spiegelt.
+Ausserdem kann das Schlafzimmer, als ein Ort der Konfrontation mit sich selbst, dienen.
+Desweiteren ist es ein lokaler Ort für Routinevorgänge.
 Tag ein Tag aus kriecht man Morgens mühselig aus dem Bett und kommt Abends wieder am selben Ort zur Ruhe.
-Es bilden sich Routine Vorgänge.
-Dieses Phänomen habe ich in meinem Kurzfilm angwendet.
-Es zeigt sich als Routine des täglichen Betrachtens des Ebenbilds im Spiegel.
+Dieses Phänomen habe ich in meinem Kurzfilm dargestellt.
+Das Betrachten des Ebenbilds im Spiegel stellt im Film eine tägliche Routine dar.
 
 Die Farbe der Ausstattung habe ich ganz bewusst in Weiss umgesetzt.
 Einerseits habe ich diese Farbe benutzt, um die Hauptfigur in den Fokus zu setzen.
@@ -41,7 +37,7 @@ Damit wird der Ausdruck _Man hinterlässt überall seine Spuren_ symbolisiert.
 Die Knetmasse soll einen nicht näher definierten Menschen darstellen.
 Es ist egal was für eine Hautfarbe, was für einen Körperbau oder welches Geschlecht -- die Figur soll das "DU" sein.
 Ob man sich auf dieses Bild einlassen will und sich mit dieser Figur oder Masse identifiziert, bleibt dem Betrachter selber überlassen.
-Die Figur soll einfach eine Projektionsfläche bieten, auf welcher sich der Zuschauer finden und seine persönliche Geschichte ausmalen kann.
+Die Figur soll einfach eine Projektionsfläche bieten, auf welcher sich der Zuschauer finden und sich seine persönliche Geschichte ausmalen kann.
 Zentral ist, dass die Figur ständig ihre Körperform wechselt und dennoch unzufrieden bleibt.
 Damit will ich aufzeigen, dass nicht die Veränderung des Körperbilds Zufriedenheit gibt, sondern dass diese zuerst in Kopf und Gedanken stattfinden muss.
 
@@ -74,10 +70,10 @@ Ein wichtiger Aspekt für die Aussage der Handlung ist, dass die beiden Figuren 
 
 Der grundlegende Unterschied ist der Gemütszustand der beiden.
 Die grüne Figur ist, trotz der gleichen Statur vollkommen zufrieden und im Einklang mit sich selbst und kann sich erfreut im Spiegel ansehen.
-Die blaue Kugel hingegen ist alles andere als Zufrieden.
+Die blaue Kugel hingegen ist alles andere als zufrieden.
 Die Umarmung der Beiden ist der Auslöser für die Besserung.
 Es ist ein Austausch an Emotionen und Unterstützung.
-Wenn man genau achtgibt, kann man erkennen, dass nach der Umarmung der beiden, Rückstände der grünen Figur am Körper der blauen Figur hängen blieben.
+Wenn man genau Acht gibt, kann man erkennen, dass nach der Umarmung der beiden, Rückstände der grünen Figur am Körper der blauen Figur hängen blieben.
 Dies soll diesen Austausch deutlich machen und aufzeigen, dass sie jetzt nach der Umarmung und der weitergegebenen Vernunft, zufrieden sein kann und sich selber, so wie sie ist akzeptieren kann.
 
 == Kalender
@@ -86,7 +82,9 @@ Der Kalender ist ebenfalls ein wichtiges Element in meinem Film.
 Er kommt immer wieder vor, hat aber keine wirklichen Beziehung zur Figur oder Handlung.
 Das Abreissen der Tage soll die Zeitspanne der Handlung zeigen und ausserdem den Zuschauer durch den langen Prozess der Unzufriedenheit begleiten.
 Über dem Pult, unter den Postern, kann man auch einen kleinen Kalender erkennen.
-Dieser soll die Barriere zwischen dem effektiven Kalender und dessen Sequenzen und der sonstigen Handlung bieten.
+Dieser soll die Brücke zwischen dem effektiven Kalender und dessen Sequenzen und der sonstigen Handlung schlagen.
 Im Abspann wird der Kalender wieder aufgegriffen.
 Man erkennt das Schlafzimmer in der Totalen und die sich darin immer mehr sammelnden abgerissenen Kalenderblätter.
 Die Dauer der Handlung wird so noch einmal aufgenommen und betont.
+
+== Spiegel
