@@ -2,24 +2,26 @@
 
 Ich teile dieses Kapitel in drei Themen ein, wie sie auch bei einer richtigen Filmproduktion stattfinden.
 In der _Preproduction_ werden die Vorbereitungen für den Dreh gemacht.
-Dazu gehören Drehbuch, Material, Technik und anders.
+Dazu gehören Drehbuch, Material, Technik und anderes mehr.
+In der _Production_ wird Film und Ton aufgenommen und in der _Postproduction_ entsteht das fertige Produkt.
 
 
 == Preproduction
 
 === Idee und Drehbuch
 
-Wie in der Einleitung erwähnt, war es mir anfänglich sehr wichtig eine Arbeit mit einer Aussage zu machen.
-Das behandelte Thema liegt oft in aller Munde, des öfteren wird es leider nicht ernstgenommen.
-Weil es mir persönlich aber sehr wichtig ist ein ernstzunehmends Produkt herzustellten, war es wichtig meine Ideen gut umzusetzen und gegen Aussen verständlich zu machen.
+Wie in der Einleitung erwähnt, war es mir anfänglich sehr wichtig, eine Arbeit mit einer Aussage zu machen.
+Das behandelte Thema ist oft in aller Munde, aber es wird oft nicht ernstgenommen.
+Weil es mir persönlich aber ein Anliegen ist, ein ernstzunehmends Produkt herzustellen, war es wichtig meine Ideen gut umzusetzen und verständlich zu machen.
+
 Dafür brauchte ich ein Drehbuch.
-Noch nie hatte ich zuvor ein Drehbuch geschrieben oder angeschaut, deshalb wusste ich nicht wirklich was ich machen soll.
+Ich hatte noch nie zuvor ein Drehbuch geschrieben oder angeschaut, deshalb wusste ich nicht wirklich wie ich das angehen sollte.
 In meinem Skizzenbuch hatte ich meine Ideen aufgeschrieben und aufgezeichnet.
 Durch diesen Prozess kam ich zu einer klareren Vorstellung des Ablaufs meiner Geschichte.
-Jedoch hatte ich anfänglich eine zu komplexe Idee.
-Ich wollte mehrere Schauplätze herstellten und dadurch verschiedene Handelstränge einleiten.
-Nach den ersten Filmsequenzen habe ich aber gemerkt, wie viel Arbeit es wirklich braucht.
-Deshalb habe ich mich ziemlich schnell an der ersten Idee festgehalten und diese soweit ausgebaut, wie es mir möglich war.
+Jedoch hatte ich anfänglich eine zu komplexe Idee, denn ich wollte mehrere Schauplätze herstellen und dadurch verschiedene Handelstränge einleiten.
+Nach den ersten Filmsequenzen habe ich aber gemerkt, wie viel Arbeit es wirklich braucht um dies zu realisieren.
+Deshalb blieb ich bei meiner ersten Idee und habe diese soweit ausgebaut, wie es mir möglich war.
+In Abbildung 2 ist ein Ausschnitt aus meinem Skizzenbuch zu sehen, in welchem man einen Teil der Handlung der ersten Idee sieht.
 
 .Anfängliche Idee
 image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=67%,align=center]
@@ -27,11 +29,11 @@ image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=67%,align=center]
 
 === Storyboard
 
-Wie in jedem Film, vor allem in animierten Filmen, braucht man für die konkrete Umsetzung von einer Idee zu einem Film ein Storyboard.
-Man skizziert grob auf einem Blatt Papier eine Kameraeinstellung.
-Die Perspektive und was auf dem spezifischen Bildausschnitt zu sehen ist wird festgelegt und die Handlung wird in einem kurzen Satz beschrieben.
+In jedem Film braucht man für die konkrete Umsetzung einer Idee zu einem Film ein Storyboard.
+Dabei skizziert man grob auf einem Blatt Papier jede Szene und Kameraeinstellung.
+Die Perspektive und was auf dem spezifischen Bildausschnitt zu sehen ist wird festgelegt und die Handlung in einem kurzen Satz beschrieben.
 Somit kann man verschiedene Aktionen aufzeichnen und nach Belieben die Sequenzen variieren.
-Das Storyboard hilft eine langweilige Kameraführung zu vermeiden, indem die Abläufe der einzelnen Einstellungen der Kamera visualisiert werden.
+Das hilft, den Film mit wenig Aufwand vorab zu gestalten und zu visualisieren.
 
 .Drei Szenen aus dem Storyboard
 image::images/storyboard.png[Storyboard, pdfwidth=100%,align=center]
@@ -45,21 +47,23 @@ image::images/storyboard_film.png[FertigeBilder, pdfwidth=100%,align=center]
 Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
 In allen Bastelläden, die ich besucht habe, wurde mir das Material _((Fimo))_ vorgeschlagen.
 Bei der Arbeit damit stellte sich aber heraus, dass dieses Material sehr schnell brüchig und hart wird.
-Dementsprechend war es für meine Arbeit nicht geeignet.
+Deshalb war es für meine Arbeit nicht geeignet.
 
-_((Plastilin))_ erwies sich schlussendlich als das passendste Material.
-Um mich daran zu gewöhnen habe ich eine Zeit lang oft damit modelliert und verschiedene Objekte nachgebildet, um zu sehen was man mit Plastilin gestalten kann.
-Es wurde mir schnell klar, dass Plastilin für vieles sehr passend ist.
-Es lassen sich sowohl einfarbige, als auch mehrfarbige sowie gemischte Objekte herstellen.
-Von dick zu dünn ist ziemlich alles möglich.
-Ich habe Versuche gemacht, bei denen ich darauf geachtet habe verschiedene Oberflächen Strukturen nach zu bilden.
+Schlussendlich erwies sich _Plastilin_ als das beste Material.
+Um mich daran zu gewöhnen, habe ich eine Zeit lang oft damit modelliert und verschiedene Objekte nachgebildet, um zu sehen was man mit Plastilin gestalten kann.
+Es wurde mir schnell klar, dass Plastilin für Vieles sehr passend ist.
+Es lassen sich einfarbige, mehrfarbige und gemischte Objekte herstellen.
+Ich habe Versuche gemacht, bei denen ich darauf geachtet habe, die Struktur verschiedener Oberflächen nachzubilden.
 Das Material bietet viele Möglichkeiten, hat aber auch seine Grenzen.
-So ist es nicht möglich, all zu filigrane Objekte zu modelieren, da Plastilin schnell instabil wird.
-Dies bedingt zu Gunsten einer guten Standhaftigkeit einen genug dicken und schweren Fuss.
+So ist es nicht möglich, allzu filigrane Objekte zu modelieren, da Plastilin schnell instabil wird.
+Dies bedingt für eine gute Standhaftigkeit eine genug dicke und schwere Basis.
 Ausserdem ist es schwierig Objekte herzustellen, die transparent, weich oder flüssig sind.
-Ich habe mich herausgefordert ein Objekt herzustellen, welches aus verschiedenen Material und Strukturen besteht und damit an die Grenzen des Materials kommt.
-Auf Abbildung 6 kann man meinen Versuch einer Nachbildung eines Feuers erkennen.
-Es war nicht einfach die verschiedenen Farben einzusetzen und das Feuer lebendig erscheinen zu lassen.
+Ich habe mich damit herausgefordert ein Objekt herzustellen, welches aus verschiedenen Materialien und Strukturen besteht und damit an die Grenzen der Möglichkeiten der Knetmasse kommt.
+
+Auf Abbildung 5 sieht man meinen Versuch eine Erdnuss zu modelieren.
+Ich habe mir bewusst die schwierige Aufgabe gestellt, eine aufgebrochene Schale mit innenliegender Nuss zu zeigen, um zu sehen wie sich das Material verhält und bearbeiten lässt.
+Abbildung 6 zeigt meinen Versuch ein Feuers nachzubilden.
+Es war nicht einfach, die verschiedenen Farben einzusetzen und das Feuer lebendig erscheinen zu lassen.
 
 .Erdnuss Nachbildung
 image::images/Erdnuss2.jpg[Erdnuss Nachbildung, pdfwidth=33%,align=center]
@@ -69,66 +73,73 @@ image::images/Feuer.jpg[Feuer Nachbildung, pdfwidth=33%,align=center]
 
 === Software
 
-Ich erkannte, dass es zu zeitaufwenig und ungenauer wäre, einzelne Fotos zu schiessen und dann manuell nacheinander abspielen zu lassen.
-Deshalb habe ich recherchiert, um herauszufinden, wie ich am besten meine Arbeit filmen kann.
+Ich erkannte, dass es zu zeitaufwendig und ungenau ist, einzelne Fotos zu schiessen und diese dann manuell nacheinander abzuspielen.
+Deshalb habe ich recherchiert, um herauszufinden, wie ich meine Arbeit am besten filmen kann.
 Ich habe verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
 
-Die erste Technik, die ich angewendet habe war das heruntergeladene App "_StopMotion Studio_" auf meinem iPhone, welches man auf ein extra für Smartphones konstruiertes Stativ montiert.
-Dies erwies sich jedoch als nicht sehr geeignet, denn die Qualität des Filmes war nicht überzeugend und unpraktisch zu bedienen, denn das iPhone auf dem Stativ war instabil.
-Beim Bedienen des Auslösers hat sich das ganze Stativ verschoben und das resultierende Video wurde wackelig.
+Der erste Versuch war mit der heruntergeladenen App _StopMotion Studio_ auf meinem iPhone.
+Das Telefon wurde dabei auf ein extra für Smartphones konstruiertes Stativ montiert.
+Das Resultat war nicht befriedigend, denn einerseits war die Qualität der Bilder nicht besonders gut, andererseits war die Handhabung sehr unpraktisch.
+Um ein Bild zu machen musste ich auf dem Bildschirm des Telefons einen Knopf drücken.
+Dabei verschob sich der ganze Aufbau und das resultierende Video war unruhig und wackelig.
 
 Danach habe ich auf dem Internet nach weiteren Stop-Motion Programmen recherchiert.
-Zuerst habe ich mich auf günstige Programme konzentriert und mich für "_IStopMotion_" entschieden.
-Nachdem ich das Programm gekauft hatte, stellte ich fest, dass es nicht mit meiner Kamera zusammen funktionierte. (TODO: anders Wort für zusammen funktionieren)
-Deshalb musste ich es ebenfalls auf meinem SMartphone einsetzen und damit zeigten sich wiederum dieselben Probleme.
+Zuerst habe ich mich auf günstige Programme konzentriert und mich für _IStopMotion_ entschieden.
+Nachdem ich das Programm gekauft hatte, stellte ich fest, dass ich meine Kamera nicht mit der Software koppeln konnte.
+Deshalb musste ich es ebenfalls auf meinem Smartphone einsetzen und damit ergaben sich wieder dieselben Probleme wie oben beschrieben.
 
-"_IStopMotion_" war aber auch sonst eine grosse Enttäuschung, denn es stürzte ständig ab.
-Dadurch verlor ich einige Male gefilmte Sequenzen.
-Zusätlich gab es keine Funktion zum manuellen Scharfstellen, was die Bildgestaltung sehr erschwerte.
+_IStopMotion_ war aber auch sonst eine grosse Enttäuschung, denn das Programm stürzte ständig ab und verlor einige Male gefilmte Sequenzen.
+Zusätzlich gab es keine Funktion zum manuellen Scharfstellen, was die Bildgestaltung sehr erschwerte.
 
-Nach weiteren Recherchen bin ich dann auf das professionelle Animationsprogramm "((_Dragonframe_))" gestossen.
-Ich habe die Testversion auf meinen Computer geladen und eine dazu passende Kamera, eine "((Nikon D7200))" von einer Familienfreundin organisiert.
+Nach weiteren Recherchen bin ich dann auf das professionelle Animationsprogramm _Dragonframe_ gestossen.
+Ich habe die Testversion auf meinen Computer geladen und eine dazu passende Kamera, eine _Nikon D7200_, von einer Familienfreundin ausgeliehen.
 Mit der Testversion habe ich kurze Ausschnitte gefilmt und das komplizierte Programm erlernt.
-Da die Resultate endlich überzeugend waren und alles funktionierte, entschied ich mich, lieber Geld in ein gut funktionierendes Programm zu investieren, um nicht weitere Zeit zu verlieren.
+Da die Resultate endlich überzeugten und alles funktionierte, entschied ich mich, lieber Geld in ein gut funktionierendes Programm zu investieren, um nicht weitere Zeit zu verlieren.
 Deshalb kaufte ich mir die Software und die dazu passende Steuerkonsole.
 
 === Bühnenbild
 
 Der Grundriss meiner Bühne gleicht einem Puppenhaus.
 Zuerst baute ich einen offenen Raum aus Sperrholz.
-Ich habe mich für die Einrichtung eines Schlafzimmers entschieden, damit ich einen einheitlichen Raum zur Verfügung hatte, der nicht nach jedem Filmprozess neu gestaltet oder umgebaut werden musste.
-Das Puppenhaus ähnliche Schlafzimmer hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
+Ich entschied mich für die Einrichtung eines Schlafzimmers, damit ich einen einheitlichen Raum zur Verfügung hatte, der nicht nach jedem Filmprozess neu gestaltet oder umgebaut werden musste.
 Ausgestattet habe ich diesen Raum mit selber gemachten Möbeln und Dekorationen.
+Die Konstruktion hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
 
-.Bühnenbau Skizze
+.Konstruktionsskizze
 image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=67%,align=center]
 
 == Production
 
 === Beleuchtung
 
-Bei der Beleuchtung der Szene habe ich mich ziemlich eingegrenzt.
-Ich habe mich auf eine Filmgrundlage gestützt.
-Die Dreipunkt Beleuchtung benutzt man oft, um eine ganze Szene zu beleuchten und verschiedene Teile zu fokusieren. (TODO: Ausführen)
+Bei der Wahl der Beleuchtung der Szene, habe ich mich ziemlich eingegrenzt und nur eine Variante verwendet.
+Es handelt sich um die sogennante _Dreipunkt Beleuchtung_.
+Man arbeitet mit drei Lichtquellen, um Szene und Objekt zu beleuchten.
+Das _Schlüssellicht_ ist das Hauptlicht und beleuchtet das Objekt meist von vorne.
+Mit dem _Fülllicht_ werden Schatten, die vom Schlüssellicht erzeugt werden aufgehellt.
+Schliesslich verwendet man ein _Gegenlicht_ um Silhoutten und Konturen hervorzuheben und das Objekt damit klar zu definieren.
 
-.Beleuchtung
+(TODO: Neue Skizze)
+
+.Skizze Dreipunkt Beleuchtung
 image::images/beleuchtung.png[Beleuchtung,pdfwidth=67%,align=center]
 
 
 === Film und Fotografie
 
-Dank Barabara Burri, einer Bekannten, war es mir möglich mit einer professionellen Spiegelreflex Kamera, einer Nikon D7200 und einem xy Objektiv arbeiten zu können.
-Die hohe Qualität meines Films wurde durch diese Kamera ermöglicht.
-Ausserdem wurde die Kamera von dem oben erwähnten, professionellen, auf Animationen spezialisiertem Programm _"Dragonframe"_ unterstützt.
+Dank Barabara Burri, einer Bekannten, war es mir möglich mit einer professionellen Spiegelreflexkamera, einer _Nikon D7200_ und einem 16-300mm Objektiv zu arbeiten.
+Daraus ergab sich die gute Filmqualität meines Films.
+Ausserdem wurde die Kamera von dem oben erwähnten Programm _Dragonframe_ unterstützt.
+
 Gemäss Hurni <<hurni>> ist es bei der Bildkomposition wichtig, die Drittelregel anzuwenden.
 Dabei wird das Bild mit vier Linien (zwei Horizontalen und zwei Vertikalen) in neun gleichgrosse Rechtecke unterteilt.
-Die Schnittpunkte der Linien benutzt man um das Motiv zu positionieren.
+Die Schnittpunkte der Linien benutzt man, um das Motiv zu positionieren.
 Man versucht das Motiv auf einen der Schnittpunkte zu platzieren.
-Dies gefällt dem menschlichen Auge, vermutlich weil die vier Schnittpunkte von den Proportionen her, dem Goldenen Schnitt ähneln.
+Dies gefällt dem menschlichen Auge, weil die vier Schnittpunkte von den Proportionen her, dem Goldenen Schnitt ähneln.
 
-Durch das Verwenden des Teleobjektiv war es mir möglich sowohl Nahaufnahmen, als auch die Totale zu verwenden, um unterschiedliche Bildausschnitte zu zeigen.
+Durch das Verwenden des Teleobjektivs war es mir möglich, sowohl Nahaufnahmen als auch Totale zu verwenden, um unterschiedliche Bildausschnitte zu zeigen.
 
-Mit der Tiefenschärfe kann man im Film die Aufmerksamkeit des Betrachters leiten.
+Mit der Tiefenschärfe kann man im Film die Aufmerksamkeit des Betrachters lenken.
 Ich habe in meinem Film bewusst versucht, dieses Mittel der Gestaltung zu nutzen.
 In der unten gezeigten Szene kann man sehen, wie sich Schärfe verändert während die Figur den Raum betritt.
 Angekommen beim Spiegel, am eigentlichen Ort der Handlung, ist die Kamera so eingestellt, dass das Spiegelbild scharf ist und somit die Bewegungen der Figur gut erkennbar sind.
@@ -138,14 +149,19 @@ image::images/tiefenschaerfe.png[Tiefenschärfe, pdfwidth=100%,align=center]
 
 === Ton
 
-Gleichzeitig habe ich mit einem "((Zoom H5))"-Fieldrecorder Geräusche in meinem Haus aufgenommen, die passend zu den aufgenommenen Szenen waren.
-Viele der Geräusche habe ich aus ähnlichen Tätigkeiten, wie die im Film gezeigten, aufgenommen, um es so authentisch wie möglich darzustellen.
+Um einen Film glaubwürdig zu machen, braucht es neben dem Bild auch Ton in der Form von Sprache, Musik, Toneffekten und Geräuschen.
+Diese bringen das Bild erst zum leben.
+In diesem Film habe ich bewusst auf Sprache verzichtet und mich auf Toneffekte konzentriert.
+Im Englischen nennt man diese Arbeit _Foley Art_.
+
+Mit einem _Zoom H5-Fieldrecorder_ habe ich Geräusche in unserem Haus aufgenommen, die zu den aufgenommenen Szenen passten.
+Viele der Geräusche habe ich aus ähnlichen Tätigkeiten, wie die im Film gezeigten, aufgenommen, um sie so authentisch wie möglich darzustellen.
 Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der schliessenden Türe, habe ich das quietschen meiner Kleiderschranktüre aufgenommen.
-Es war ein interessanter und kreativer Prozess, diese einzelnen Szenen zu vertonen.
-Diese einzelnen habe ich als Clips in "Lightworks" importiert und an passender Stelle platziert.
+Es war ein interessanter und kreativer Prozess, die einzelnen Szenen zu vertonen.
+Die Tonaufnahmen habe ich als Dateien in das Schnittprogramm _Lightworks_ importiert und synchron zum Bild platziert.
 Hie und da mussten gewisse Tonaufnahmen bearbeitet oder gekürzt werden.
 Weil ich die Videoaufnahmen jeweils mit 50% Schnelligkeit im Schnittprogramm laufen liess, konnte ich erst nach der Verlangsamung die jeweilig passende Tonspur aufnehmen.
-Ansonsten hätte sich bei der nachträglichen Bearbeitung die Tonspur in ihrer Tonhöhe unterschieden.
+Ansonsten hätte sich bei der nachträglichen Bearbeitung die Tonspur in ihrer Tonhöhe geändert.
 
 == Postproduction
 
@@ -154,32 +170,40 @@ Am Anfang dachte ich, dass es sich dabei nur um das Schneiden von Filmsequenzen 
 
 === Schnitt
 
-Nach dem fotografieren einer Szene habe ich die noch einzelnen Fotos als Video exportiert und in das Schnittprogramm _(((Lightworks)))_ eingefügt.
-Dort habe ich stetig die Sequenzen hintereinander eingefügt und erhielt somit einen groben Verlaufsstrang.
-Weiter hinzu kamen die Übergänge.
-Mir persönlich gefallen die Überblendungen am besten.
-Sie scheinen für mich am simpelsten und am natürlichsten fürs Auge.
-Den Vorspann und Abspann habe ich direkt in Lightworks in den vorhandenen Film eingefügt und mit verschiedenen Effekten bearbeitet. (TODO: Spuren satz)
+Nach dem Fotografieren einer Szene habe ich die einzelnen Fotos als Video exportiert und in das Schnittprogramm _Lightworks_ eingefügt.
+Dort habe ich die Sequenzen hintereinander eingefügt und erhielt damit einen ersten, groben Rohschnitt.
+Diesen Rohschnitt musste ich bearbeiten, indem ich zum Beispiel den Zeitpunkt von Anfang oder Ende einer Sequenz auf 12tel Sekunden genau bestimmte.
+Danach musste ich teilweise Übergänge zwischen den Sequenzen einfügen.
+Das waren zum Beispiel Überblendungen oder Ein-/Ausblenden.
+Den Vorspann und Abspann habe ich direkt in Lightworks in den vorhandenen Film eingefügt und mit verschiedenen Effekten bearbeitet.
 
+In Abbildung 10 sieht man das ganze Projekt im Schnittprogramm.
+Insgesamt waren zwei Video-, zwei Effekt- und zehn Audiospuren für die Montage nötig.
 
-.Zeitachse in Lightworks
+.Bearbeitung in Lightworks
 image::images/Spuren.lwks.png[Zeitachse in Lightworks, pdfwidth=100%,align=center]
 
 === Farbkorrektur
 
-Ganz am Schluss meiner Arbeit musste ich noch die Farben im Film anpassen, weil die Unterschiede der verschiedenen Lichtereignisse zu gross waren.
-(TODO: Farbtemperatur)
+Ganz am Schluss musste ich noch die Farben im Film anpassen, weil die Farben gleicher Elemente von Szene zu Szene sehr unterschiedlich waren.
 Nach Recherche und Versuchen habe ich selber herausgefunden, wie man die Farben im "Lightworks" korrigieren kann.
 Diese Arbeit ist nicht sehr einfach und basiert auf der indivuduellen Wahrnehmung und dem Geschmack.
 Ich habe im allgemeinen versucht meinen Film wärmer zu kolorieren, denn die originalen Aufnahmen hatten einen starken Blaustich.
-Ausserdem habe ich versucht, die Veränderungen von beispielsweise der Morgenszene und der darauf folgenden Szene zu minimieren.
 
-.Beispiel einer Farbkorrektur. Links Original, rechts korrigiertes Bild
+.Beispiel einer Farbkorrektur
 image::images/farbkorrektur.png[Farbkorrektur, pdfwidth=100%,align=center]
+
+In der Abbildung 11 ist links das originale Bild und rechts die korrigierte Version zu sehen.
+Links unten sieht man, mit welcher Intensität die drei Grundfarben (Rot, Grün, Blau) in der Szene vorkommen.
+Es ist deutlich zu sehen, dass das Bild einen Blaustich hat, denn im Diagramm ist das Blau auf der Y-Achse weiter oben.
+Durch Korrektur mit den drei Farbrädern oben links konnte ich die drei Farbkomponenten ausgleichen.
 
 
 === Musik
 
-Die Musik, die ich für meinen Vorspann und Abspann gewählt habe, habe ich aus einer Webseite "_Magnatunes_" (TODO: Glossar) für lizenzfreie Musik genommen.
-Mir war es wichtig mit der Musik ein Spannungsgefüge aufzubauen.
-Zu Beginn scheint die Gitarrenbegleitung eher einfach und simpel und gegen Ende wird sie dann aufregender und wirkt fröhlicher. (TODO. Warum diese Musik?)
+Die Musik, die ich für Vorspann und Abspann gewählt habe, habe ich von der Webseite _Magnatunes_ genommen.
+Die Musik ist unter einer _Creative Commons_ Lizenz verfügbar, die es erlaubt sie zum Beispiel in nicht-kommerziellen Filmen zu verwenden.
+
+Ich habe lange nach der passenden Musik gesucht.
+Mir war es wichtig, dass die Musik instrumental ist und damit dem Film entspricht.
+Zusätzlich sollte sie der verschiedenen Stimmungen zu Beginn und Ende des Films entsprechen und diese verstärken.

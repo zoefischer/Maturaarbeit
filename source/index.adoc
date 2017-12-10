@@ -48,6 +48,4 @@ IStopmotion:: https://boinx.com/istopmotion/mac/
 Lightworks:: https://lwks.com
 StopMotion Studio:: https://itunes.apple.com/ch/app/stop-motion-studio/id441651297?mt=8
 Zoom H5:: https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h5-handy-recorder
-
-[index]
-== Index
+Nikon D7200:: https://www.nikon.ch/de_CH/product/digital-cameras/slr/consumer/d7200
