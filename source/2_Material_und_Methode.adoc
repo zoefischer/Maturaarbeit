@@ -24,7 +24,7 @@ Deshalb blieb ich bei meiner ersten Idee und habe diese soweit ausgebaut, wie es
 In Abbildung 2 ist ein Ausschnitt aus meinem Skizzenbuch zu sehen, in welchem man einen Teil der Handlung der ersten Idee sieht.
 
 .Anfängliche Idee
-image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=67%,align=center]
+image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=50%,align=center]
 
 
 === Storyboard
@@ -62,14 +62,12 @@ Um Plastilin besser kennenzulernen habe mich damit herausgefordert ein Objekt he
 
 Auf Abbildung 5 sieht man meinen Versuch eine Erdnuss zu modelieren.
 Ich habe mir bewusst die schwierige Aufgabe gestellt, eine aufgebrochene Schale mit innenliegender Nuss zu zeigen, um zu sehen wie sich das Material verhält und bearbeiten lässt.
-Abbildung 6 zeigt meinen Versuch ein Feuer nachzubilden.
+Daneben ist mein Versuch ein Feuer nachzubilden.
 Es war nicht einfach, die verschiedenen Farben einzusetzen und das Feuer lebendig erscheinen zu lassen.
 
-.Erdnuss Nachbildung
-image::images/Erdnuss2.jpg[Erdnuss Nachbildung, pdfwidth=33%,align=center]
+.Erdnuss und Feuer Nachbildung
+image::images/erdnuss_feuer.png[Erdnuss Nachbildung, pdfwidth=67%,align=center]
 
-.Feuer Nachbildung
-image::images/Feuer.jpg[Feuer Nachbildung, pdfwidth=33%,align=center]
 
 === Software
 
@@ -106,7 +104,7 @@ Ausgestattet habe ich diesen Raum mit selber gemachten Möbeln und Dekorationen.
 Die Konstruktion hat sich als sehr praktisch herausgestellt, denn ich konnte das ganze Zimmer verschieben und somit Perspektiven erzeugen, die allein mit der Verschiebung der Kamera nicht machbar gewesen wären.
 
 .Konstruktionsskizze
-image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=67%,align=center]
+image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=50%,align=center]
 
 == Production
 
@@ -122,7 +120,7 @@ Schliesslich verwendet man ein _Gegenlicht_, um Silhoutten und Konturen hervorzu
 
 
 .Skizze Dreipunkt Beleuchtung
-image::images/beleuchtung.png[Beleuchtung,pdfwidth=67%,align=center]
+image::images/drei_punkt_figur_50.png[Beleuchtung,pdfwidth=67%,align=center]
 
 
 === Film und Fotografie
@@ -137,8 +135,8 @@ Die Schnittpunkte der Linien benutzt man, um das Motiv zu positionieren.
 Man versucht das Motiv auf einen der Schnittpunkte zu platzieren.
 Dies gefällt dem menschlichen Auge, weil die vier Schnittpunkte von den Proportionen her, dem Goldenen Schnitt ähneln.
 
-.
-image::images/ruleofthirds[Drittelregel,pdfwidth=100%,align=center]
+.Drittelregel
+image::images/ruleofthirds.jpg[Drittelregel,pdfwidth=67%,align=center]
 
 In der Abbildung 8 von <<asingulareye>> ist der Vergleich der beiden Verhältnisse gut zu sehen.
 
@@ -157,13 +155,18 @@ image::images/tiefenschaerfe.png[Tiefenschärfe, pdfwidth=100%,align=center]
 
 Der wohl wichtigste Produktionsschritt meiner Arbeit ist die effektive Animation.
 _Animation_ ist der Überbegriff für jede Technik, bei der durch das Erstellen und Anzeigen von Einzelbildern für den Betrachter ein bewegtes Bild geschaffen wird.
-Dazu gehören gezeichnete Bilder,von Computer erstellte oder fotografierte Aufnahmen sein.
+Das können gezeichnete Bilder, von Computer erstellte oder fotografierte Aufnahmen sein.
 Ich habe mich für das Letztere entschieden.
 Dabei habe ich die Kamera auf ein Stativ gestellt und so positioniert, dass ich den gewünschten Bildausschnitt hatte.
-Bild für Bild habe ich einzeln fotografiert.
-Zwischen dem Auslösen des Bildes habe ich jeweils die Figuren neu geformt und bewegt.
-Damit durch die Aneinaderreihung der Bilder eine fliessende Bewegung entstand.
-12 Bilder vor und nach der eigentlichen Handlung habe ich geschossen, um jeweils eine Sekunde mehr zu haben, um beim Schneiden des Filmes kein Material zu verlieren.
+Dann habe ich Bild für Bild einzeln nacheinander fotografiert.
+Zwischen einem Bild und dem nächsten habe ich jeweils die Figuren neu geformt und bewegt.
+Durch das aneinanderreihung der Bilder und dem schnellen Abspielen, ensteht der Eindruck einer fliessenden Bewegung.
+Ein normaler Kinofilm wird mit 24 Bildern pro Sekunde gefilmt.
+Für das Auge ist die schnelle Abfolge der Bilder als Film wahrnehmbar.
+In meinem Animationsfilm arbeite ich mit 12 Bildern pro Sekunde.
+Beim Abspielen wird jedes Bild zwei Mal gezeigt, damit wieder eine Geschwindigkeit von 24 Bildern pro Sekunde entsteht.
+
+Zusätzlich habe ich Vor und Nach der eigentlichen Handlung jeweils 12 Bilder gemacht, um beim Schneiden die Möglichkeit zu haben, eine Überblendung zur vorigen oder nächsten Szene zu machen.
 
 
 === Ton
