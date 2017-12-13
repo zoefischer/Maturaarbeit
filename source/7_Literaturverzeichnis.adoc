@@ -2,16 +2,20 @@
 = Literaturverzeichnis
 
 [bibliography]
-- [[[negenborn]]] Negenborn, Daniel: 'Dreipunkt Beleuchtung', http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.2017)
 
-- [[[Strauch16]]] Strauch, Thomas; Engelke, Carsten: 'Filme machen',Wilhelm Fink, Paderborn, 2016
-
-- [[[viversum]]], Viversum: 'Bedeutung der Farbe Weiss', http://www.viversum.ch/online-magazin/bedeutung-der-farbe-weiss (Abgerufen am 02.12.2017)
-
-- [[[hurni]]], Hurni, Andreas : 'Die Drittelregel', https://andreashurni.ch/bildgestaltung/geometrie/goldenerschnitt.htm#drittelregel (Abgerufen am 04.12.2017)
+- [[[asingulareye]]] Brianphotog1950 : 'Rule of thirds'
+https://asingulareye.wordpress.com/2013/06/03/rule-of-thirds/ (Abgerufen am 13.12.2017)
 
 - [[[flückiger]]], Flückiger, Adrian : 'What's Next',
 http://www.umaer.ch/whats-next/ (Abgerufen am 10.12.2017)
 
-- [[[asingulareye]]] Brianphotog1950 : 'Rule of thirds'
-https://asingulareye.wordpress.com/2013/06/03/rule-of-thirds/ (Abgerufen am 13.12.2017)
+- [[[hurni]]], Hurni, Andreas : 'Die Drittelregel', https://andreashurni.ch/bildgestaltung/geometrie/goldenerschnitt.htm#drittelregel (Abgerufen am 04.12.2017)
+
+- [[[negenborn]]] Negenborn, Daniel: 'Dreipunkt Beleuchtung', http://www.filmmachen.de/tipps-und-tricks/licht/3-punkt-beleuchtung (Abgerufen am 17.10.2017)
+
+- [[[strauch]]] Strauch, Thomas; Engelke, Carsten: 'Filme machen',Wilhelm Fink, Paderborn, 2016
+
+- [[[viversum]]], Viversum: 'Bedeutung der Farbe Weiss', http://www.viversum.ch/online-magazin/bedeutung-der-farbe-weiss (Abgerufen am 02.12.2017)
+
+
+

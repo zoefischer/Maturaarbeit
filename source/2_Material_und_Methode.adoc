@@ -112,7 +112,7 @@ image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=50%,align=center]
 === Beleuchtung
 
 Bei der Wahl der Beleuchtung der Szene, habe ich mich ziemlich eingegrenzt und nur eine Variante verwendet.
-Es handelt sich um die sogennante _Dreipunkt Beleuchtung_ wie in <<negenborn>>.
+Es handelt sich um die sogennante _Dreipunkt Beleuchtung_ wie in <<negenborn>> beschrieben.
 Man arbeitet mit drei Lichtquellen, um Szene und Objekt zu beleuchten.
 Das _Schlüssellicht_ ist das Hauptlicht und beleuchtet das Objekt meist von vorne.
 Mit dem _Fülllicht_ werden Schatten, die vom Schlüssellicht erzeugt werden aufgehellt.
