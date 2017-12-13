@@ -178,9 +178,6 @@ Viele der Geräusche habe ich aus ähnlichen Tätigkeiten, wie die im Film gezei
 Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der schliessenden Türe, habe ich das Quietschen meiner Kleiderschranktüre aufgenommen.
 Es war ein interessanter und kreativer Prozess, die einzelnen Szenen zu vertonen.
 Die Tonaufnahmen habe ich als Dateien in das Schnittprogramm _Lightworks_ importiert und synchron zum Bild platziert.
-Hie und da mussten gewisse Tonaufnahmen bearbeitet oder gekürzt werden.
-Weil ich die Videoaufnahmen jeweils mit 50% Schnelligkeit im Schnittprogramm laufen liess, konnte ich erst nach der Verlangsamung die jeweilig passende Tonspur aufnehmen.
-Ansonsten hätte sich bei der nachträglichen Bearbeitung die Tonspur in ihrer Tonhöhe geändert.
 
 == Postproduction
 
