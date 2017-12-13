@@ -1,5 +1,8 @@
 = Analyse
 
+In meinem Film habe ich bewusst verschiedene, einfache Objekte verwendet, um das gewählte Thema zu beleuchten.
+Im folgenden Kapitel habe ich die wichtigsten Gegenstände erklärt.
+
 == Bühnenbild
 
 Das Schlafzimmer ist für mich ein intimer Ort, in dem sich die Persönlichkeit des Bewohners spiegelt.
@@ -84,7 +87,7 @@ Dies macht diesen Austausch deutlich und zeigt auf, dass sie jetzt nach der Umar
 
 == Kalender
 
-Der Kalender ist ebenfalls ein wichtiges Element in meinem Film.
+Der Kalender ist ebenfalls ein wichtiges Objekt in meinem Film.
 Er kommt immer wieder vor, hat aber keine wirklichen Beziehung zur Figur oder Handlung.
 Das Abreissen der Tage soll die Zeitspanne der Handlung zeigen und ausserdem den Zuschauer durch den langen Prozess der Unzufriedenheit begleiten.
 Über dem Pult, unter den Postern kann man auch einen kleinen Kalender erkennen.
@@ -95,6 +98,8 @@ Die Dauer der Handlung wird so noch einmal aufgenommen und betont.
 
 == Spiegel
 
-Das Titelgebende Objekt, der Spiegel ist ein wichtiger Bestandteil meines Filmes.
-Die verschiedenen Handlungszüge vor dem Spiegel zeigen das Hauptproblem der Figur auf.
-Ausserdem dient der Spiegel als Reflektor der Gefühle und auch der falschen Wahrnehmung der Figur. 
+Schliesslich noch das titelgebende Element, der Spiegel.
+Anders als im Märchen, wo der Spiegel die Schönheit der Betrachterin bestätigt, ist dieser Spiegel stumm.
+Eigentlich reflektiert der Spiegel nur genau das, was vor ihm steht.
+Der Betrachter filtert dieses Bild jedoch durch seine eigene Wahrnehmung und seine eigenen Vorstellungen.
+Der zweite Betrachter schenkt der ersten Figur eine neue Perspektive, die es ihr erlaubt, die Schönheit, die ihr der Spiegel zeigt, zu erkennen. 

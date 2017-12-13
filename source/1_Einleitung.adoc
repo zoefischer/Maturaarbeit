@@ -10,7 +10,7 @@ Schlussendlich habe ich mich dazu entschieden, die Maturitätsarbeit als ein Gef
 Ich habe zwei Leidenschaften verbunden, die mich seit der Kindheit begleiten.
 Auf der einen Seite habe ich bereits im Kindergarten sehr gerne gebastelt und modeliert.
 Auf der anderen Seite sah ich mir gerne animierte Filme an.
-Der erste Film, den ich im Kino gesehen habe, war _Wallace & Gromit_. Dieser war nicht nur animiert, sondern setzte den "Claymationfilm" in Perfektion um. _Claymation_ ist ein Porte-Manteau Wort, aus den Englischen Wörtern "clay", zu Deutsch "Lehm" und "animation". Claymation beschreibt eine Methode der Filmanimation, bei welcher man mit modelierbaren Tonfiguren arbeitet und mit der Stop-Motion-Technik fotografiert. _Stop-Motion_ ist eine Filmtechnik, bei der eine Illusion von Bewegung erzeugt wird, indem man einzelne Standbilder aneinanderreiht.
+Der erste Film, den ich im Kino gesehen habe, war _Wallace & Gromit_. Dieser war nicht nur animiert, sondern setzte den "Claymationfilm" in Perfektion um. _Claymation_ ist ein Porte-Manteau Wort, aus den Englischen Wörtern "clay", zu Deutsch "Lehm" und "animation". Claymation beschreibt eine Methode der Filmanimation, bei welcher man mit modelierbaren Tonfiguren arbeitet und diese mit der Stop-Motion-Technik fotografiert. _Stop-Motion_ ist eine Filmtechnik, bei der eine Illusion von Bewegung erzeugt wird, indem man einzelne Standbilder aneinanderreiht.
 
 .Wallace und Gromit
 image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=33%,align=center]
@@ -32,7 +32,7 @@ Wenn man sich einen _Stop-Motion_ Film, wie den oben erwähnten _Wallace & Gromi
 Es war mir aber nicht klar, wie gross dieser Aufwand tatsächlich ist und welche weiteren Techniken man verwenden muss, um einen Animationsfilm zu erstellen.
 
 Ich bin davon ausgegangen, dass ich mich vor allem mit dem Thema _Animation_ und _Stop-Motion_ beschäftigen müsse.
-Während der Arbeit stellte ich fest, dass ein Film noch viele weitere Aspekte wie _Dramaturgie_, _Claymation_, _Fotographie_, _Beleuchtung_, _Ton_, _Foley_, und _Schnitt_ enthält, in die ich mich erstmals ernsthaft einarbeiten musste.
+Während der Arbeit stellte ich fest, dass ein Film noch viele weitere Aspekte wie _Dramaturgie_, _Claymation_, _Fotographie_, _Beleuchtung_, _Ton_ und _Schnitt_ enthält, in die ich mich erstmals ernsthaft einarbeiten musste.
 
 Ziel meiner Arbeit ist es, einen mit simpeln gestalterischen Mittel entworfenen _Stop-Motion_ Kurzfilm zum Thema _Körpernorm und Körperwahn_, von etwa zwei Minuten Dauer, zu drehen.
 Die Hauptfigur soll sowohl in Materialisierung und Form so einfach wie möglich gestaltet sein und aus einem knetbaren Material bestehen.
