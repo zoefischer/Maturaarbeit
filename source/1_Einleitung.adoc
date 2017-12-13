@@ -10,7 +10,7 @@ Schlussendlich habe ich mich dazu entschieden, die Maturitätsarbeit als ein Gef
 Ich habe zwei Leidenschaften verbunden, die mich seit der Kindheit begleiten.
 Auf der einen Seite habe ich bereits im Kindergarten sehr gerne gebastelt und modeliert.
 Auf der anderen Seite sah ich mir gerne animierte Filme an.
-Der erste Film, den ich im Kino gesehen habe, war _Wallace & Gromit_. Dieser war nicht nur animiert, sondern setzte den "Claymationfilm" in Perfektion um.
+Der erste Film, den ich im Kino gesehen habe, war _Wallace & Gromit_. Dieser war nicht nur animiert, sondern setzte den "Claymationfilm" in Perfektion um. _Claymation_ ist ein Porte-Manteau Wort, aus den Englischen Wörtern "clay", zu Deutsch "Lehm" und "animation". Claymation beschreibt eine Methode der Filmanimation, bei welcher man mit modelierbaren Tonfiguren arbeitet und mit der Stop-Motion-Technik fotografiert. _Stop-Motion_ ist eine Filmtechnik, bei der eine Illusion von Bewegung erzeugt wird, indem man einzelne Standbilder aneinanderreiht.
 
 .Wallace und Gromit
 image::images/wallace_gromit.jpg[Wallace & Gromit, pdfwidth=33%,align=center]
@@ -38,5 +38,5 @@ Ziel meiner Arbeit ist es, einen mit simpeln gestalterischen Mittel entworfenen 
 Die Hauptfigur soll sowohl in Materialisierung und Form so einfach wie möglich gestaltet sein und aus einem knetbaren Material bestehen.
 Durch das Aufzeigen von Gefühlen, die durch die alltägliche Handlungen aufkommen und durch die gestalterische Abstrahierung der Figuren soll der Zuschauer Parallelen zu eigenen bekannten Ereignissen oder Gefühlen ziehen und die Handlung selbst interpretieren und deuten können.
 
-Aufgrund dieses Zieles musste ich mir erstens erarbeiten wie ich einen Film animieren und eine Geschichte erzählen kann.
+Aufgrund dieses Zieles musste ich mir erstens erarbeiten, wie ich einen Film animieren und eine Geschichte erzählen kann.
 Zweitens musste ich mir für die Entwicklung meiner Figur überlegen, wie ich mit einfachen Mitteln Emotionen, Verhalten, Gedanken und Botschaften ausdrücken kann. Drittens wollte ich mich mit dem Material befassen, um es möglichst variantenreich und für meinen Inhalt optimal einzusetzen.
