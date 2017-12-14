@@ -45,7 +45,7 @@ image::images/storyboard_film.png[FertigeBilder, pdfwidth=100%,align=center]
 
 === Knetmasse
 
-Um mich an die Arbeit heranzutasten, habe ich mich zuerst mit verschiedenen Modeliermassen auseinander gesetzt.
+Um mich an die Arbeit heranzutasten, habe ich mich mit zwei verschiedenen Modeliermassen auseinander gesetzt.
 In allen Bastelläden, die ich besucht habe, wurde mir das Material _Fimo_ vorgeschlagen.
 Bei der Arbeit damit stellte sich aber heraus, dass dieses Material sehr schnell brüchig und hart wird.
 Deshalb war es für meine Arbeit nicht geeignet.
@@ -59,7 +59,7 @@ Das Material bietet viele Möglichkeiten, hat aber auch seine Grenzen.
 So ist es nicht möglich, allzu filigrane Objekte zu modellieren, da Plastilin schnell instabil wird.
 Bedingung für eine gute Standhaftigkeit ist eine genug dicke und schwere Basis.
 Ausserdem ist es schwierig Objekte herzustellen, die transparent, weich oder flüssig sind.
-Um Plastilin besser kennenzulernen habe mich damit herausgefordert ein Objekt herzustellen, welches aus verschiedenen Materialien und Strukturen besteht und damit an die Grenzen der Möglichkeiten der Knetmasse kommt.
+Um Plastilin besser kennenzulernen, habe ich mich damit herausgefordert ein Objekt herzustellen, welches aus verschiedenen Materialien und Strukturen besteht und damit an die Grenzen der Möglichkeiten der Knetmasse kommt.
 
 Auf Abbildung 5 sieht man meinen Versuch eine Erdnuss zu modellieren.
 Ich habe mir bewusst die schwierige Aufgabe gestellt, eine aufgebrochene Schale mit innenliegender Nuss zu zeigen, um zu sehen wie sich das Material verhält und bearbeiten lässt.
@@ -72,7 +72,7 @@ image::images/erdnuss_feuer.png[Erdnuss Nachbildung, pdfwidth=67%,align=center]
 
 === Software
 
-Ich erkannte, dass es zu zeitaufwändig und ungenau ist, einzelne Fotos zu schiessen und diese dann manuell nacheinander abzuspielen.
+Ich erkannte frühzeitig, dass es zu zeitaufwändig und ungenau ist, einzelne Fotos zu schiessen und diese dann manuell nacheinander abzuspielen.
 Deshalb habe ich recherchiert, um herauszufinden, wie ich meine Arbeit am besten filmen kann.
 Ich habe verschiedene Möglichkeiten ausprobiert und miteinander verglichen.
 
@@ -87,7 +87,7 @@ Zuerst habe ich mich auf günstige Programme konzentriert und mich für _IStopMo
 Nachdem ich das Programm gekauft hatte, stellte ich fest, dass ich meine Kamera nicht mit der Software koppeln konnte.
 Deshalb musste ich es ebenfalls auf meinem Smartphone einsetzen und damit ergaben sich wieder dieselben Probleme wie oben beschrieben.
 
-_IStopMotion_ war aber auch sonst eine grosse Enttäuschung, denn das Programm stürzte ständig ab und verlor einige Male gefilmte Sequenzen.
+_IStopMotion_ war aber auch sonst eine grosse Enttäuschung, denn das Programm stürzte ständig ab und ich verlor einige Male gefilmte Sequenzen.
 Zusätzlich gab es keine Funktion zum manuellen Scharfstellen, was die Bildgestaltung sehr erschwerte.
 
 Nach weiteren Recherchen bin ich dann auf das professionelle Animationsprogramm _Dragonframe_ gestossen.
@@ -112,7 +112,7 @@ image::images/szenenbau.png[Szenenbau Skizze,pdfwidth=50%,align=center]
 === Beleuchtung
 
 Bei der Wahl der Beleuchtung der Szene, habe ich mich ziemlich eingegrenzt und nur eine Variante verwendet.
-Es handelt sich um die sogennante _Dreipunkt Beleuchtung_ wie in <<negenborn>>.
+Es handelt sich um die sogennante _Dreipunkt Beleuchtung_ wie in <<negenborn>> beschrieben.
 Man arbeitet mit drei Lichtquellen, um Szene und Objekt zu beleuchten.
 Das _Schlüssellicht_ ist das Hauptlicht und beleuchtet das Objekt meist von vorne.
 Mit dem _Fülllicht_ werden Schatten, die vom Schlüssellicht erzeugt werden aufgehellt.
@@ -167,9 +167,6 @@ Für das Auge ist die schnelle Abfolge der Bilder als Film wahrnehmbar.
 In meinem Animationsfilm arbeite ich mit 12 Bildern pro Sekunde.
 Beim Abspielen wird jedes Bild zwei Mal gezeigt, damit wieder eine Geschwindigkeit von 24 Bildern pro Sekunde entsteht.
 
-Zusätzlich habe ich Vor und Nach der eigentlichen Handlung jeweils 12 Bilder gemacht, um beim Schneiden die Möglichkeit zu haben, eine Überblendung zur vorigen oder nächsten Szene zu machen.
-
-
 === Ton
 
 Um einen Film glaubwürdig zu machen, braucht es neben dem Bild auch Ton in der Form von Sprache, Musik, Toneffekten und Geräuschen.
@@ -179,8 +176,7 @@ Im Englischen nennt man diese Arbeit _Foley Art_.
 
 Mit einem _Zoom H5-Fieldrecorder_ habe ich Geräusche in unserem Haus aufgenommen, die zu den aufgenommenen Szenen passten.
 Viele der Geräusche habe ich aus ähnlichen Tätigkeiten, wie die im Film gezeigten, aufgenommen, um sie so authentisch wie möglich darzustellen.
-Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der schliessenden Türe, habe ich das Quietschen meiner Kleiderschranktüre aufgenommen.
-Es war ein interessanter und kreativer Prozess, die einzelnen Szenen zu vertonen.
+Beispielsweise habe ich für das Abreissen des Kalender ein normales Kopierpapier zerissen oder für den Ton der schliessenden Türe, habe ich das Quietschen meiner Kleiderschranktüre aufgenommen. Die einzelnen Szenen zu vertonen war ein interessanter und kreativer Prozess.
 Die Tonaufnahmen habe ich als Dateien in das Schnittprogramm _Lightworks_ importiert und synchron zum Bild platziert.
 
 == Postproduction
@@ -206,7 +202,7 @@ image::images/Spuren.lwks.png[Zeitachse in Lightworks, pdfwidth=100%,align=cente
 === Farbkorrektur
 
 Ganz am Schluss musste ich noch die Farben im Film anpassen, weil die Farben gleicher Elemente von Szene zu Szene sehr unterschiedlich waren.
-Nach Recherche und Versuchen habe ich selber herausgefunden, wie man die Farben im _Lightworks_ korrigieren kann.
+Nach Recherche und Versuchen habe ich herausgefunden, wie man die Farben im _Lightworks_ korrigieren kann.
 Diese Arbeit ist komplex und basiert auf der individuellen Wahrnehmung und dem eigenen Geschmack.
 Ich habe im Allgemeinen versucht meinen Film wärmer zu kolorieren, denn die Orginalaufnahmen hatten einen starken Blaustich.
 
@@ -225,5 +221,5 @@ Die Musik, die ich für Vorspann und Abspann gewählt habe, habe ich von der Web
 Die Musik ist unter einer _Creative Commons_ Lizenz verfügbar, die es erlaubt, sie zum Beispiel in nicht-kommerziellen Filmen zu verwenden.
 
 Ich habe lange nach der passenden Musik gesucht.
-Mir war es wichtig, dass die Musik instrumental ist und damit dem Film entspricht.
-Zusätzlich sollte sie der verschiedenen Stimmungen zu Beginn und Ende des Films entsprechen und diese verstärken.
+Mir war es wichtig, dass die Musik instrumental ist und dem Film entspricht.
+Zusätzlich sollte sie den verschiedenen Stimmungen zu Beginn und Ende des Films entsprechen und diese verstärken.
