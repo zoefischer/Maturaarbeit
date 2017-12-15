@@ -1,5 +1,5 @@
 Maturitätsarbeit Zoë Fischer
-========================
+============================
 Zoë Fischer <fischerzoe@kwi.ch>
 
 
@@ -48,6 +48,7 @@ include::8_Authentitätserklärung.adoc[]
 Animation:: Überbegriff für alle Techniken, bei denen durch eine Anzeige von Einzelbildern eine Illusion von Bewegung geschaffen wird.
 Claymation:: Ein Porte-manteau Wort der Englischen Begriffen "clay" und "animation". Claymation beschreibt eine Filmmethode, bei der man durch den Stop-Motion-Film, Knetfiguren zum Leben erweckt.
 Dragonframe:: https://dragonframe.com
+Foley:: Die Nachvertonung von Geräuschen in Filmen.
 IStopmotion:: https://boinx.com/istopmotion/mac/
 Lightworks:: https://lwks.com
 Magnatune:: http://magnatune.com

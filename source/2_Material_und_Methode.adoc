@@ -1,6 +1,6 @@
 = Material und Methode
 
-Ich teile dieses Kapitel in drei Themen ein, wie sie auch bei einer richtigen Filmproduktion stattfinden.
+Ich teile dieses Kapitel in drei Unterkapitel ein, wie sie auch als Phasen bei einer richtigen Filmproduktion stattfinden.
 In der _Preproduction_ werden die Vorbereitungen für den Dreh gemacht.
 Dazu gehören Drehbuch, Material, Technik und anderes mehr.
 In der _Production_ wird Film und Ton aufgenommen und in der _Postproduction_ entsteht das fertige Produkt.
@@ -25,7 +25,7 @@ Deshalb blieb ich bei meiner ersten Idee und habe diese soweit ausgebaut, wie es
 In Abbildung 2 ist ein Ausschnitt aus meinem Skizzenbuch zu sehen, in welchem man einen Teil der Handlung der ersten Idee sieht.
 
 .Anfängliche Idee
-image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=50%,align=center]
+image::images/drehbuch_ideen.png[Drehbuch Ideen, pdfwidth=40%,align=center]
 
 
 === Storyboard
@@ -137,7 +137,7 @@ Man versucht das Motiv auf einen der Schnittpunkte zu platzieren.
 Dies gefällt dem menschlichen Auge, weil die vier Schnittpunkte von den Proportionen her, dem Goldenen Schnitt ähneln.
 
 .Drittelregel
-image::images/ruleofthirds.jpg[Drittelregel,pdfwidth=67%,align=center]
+image::images/ruleofthirds.jpg[Drittelregel,pdfwidth=60%,align=center]
 
 In der Abbildung 8 von <<asingulareye>> ist der Vergleich der beiden Verhältnisse gut zu sehen.
 
@@ -191,7 +191,6 @@ Dort habe ich die Sequenzen hintereinander eingesetzt und erhielt damit einen er
 Diesen Rohschnitt musste ich bearbeiten, indem ich zum Beispiel den Zeitpunkt von Anfang oder Ende einer Sequenz auf 12tel Sekunden genau bestimmte.
 Danach musste ich teilweise Übergänge zwischen den Sequenzen einfügen.
 Das waren zum Beispiel Überblendungen oder Ein-/Ausblenden.
-Den Vorspann und Abspann habe ich direkt in Lightworks in den vorhandenen Film eingefügt und mit verschiedenen Effekten bearbeitet.
 
 In Abbildung 10 sieht man das ganze Projekt im Schnittprogramm.
 Insgesamt waren zwei Video-, zwei Effekt- und zehn Audiospuren für die Montage nötig.
@@ -206,14 +205,13 @@ Nach Recherche und Versuchen habe ich herausgefunden, wie man die Farben im _Lig
 Diese Arbeit ist komplex und basiert auf der individuellen Wahrnehmung und dem eigenen Geschmack.
 Ich habe im Allgemeinen versucht meinen Film wärmer zu kolorieren, denn die Orginalaufnahmen hatten einen starken Blaustich.
 
-.Beispiel einer Farbkorrektur
-image::images/farbkorrektur.png[Farbkorrektur, pdfwidth=100%,align=center]
-
 In der Abbildung 11 ist links das originale Bild und rechts die korrigierte Version zu sehen.
 Links unten sieht man, mit welcher Intensität die drei Grundfarben (Rot, Grün, Blau) in der Szene vorkommen.
 Es ist deutlich zu sehen, dass das Bild einen Blaustich hat, denn im Diagramm ist das Blau auf der Y-Achse weiter oben.
 Durch Korrektur mit den drei Farbrädern oben links konnte ich die drei Farbkomponenten ausgleichen.
 
+.Beispiel einer Farbkorrektur
+image::images/farbkorrektur.png[Farbkorrektur, pdfwidth=100%,align=center]
 
 === Musik
 
