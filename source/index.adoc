@@ -1,8 +1,7 @@
-Maturaarbeit Zoë Fischer
+Maturitätsarbeit Zoë Fischer
 ========================
 Zoë Fischer <fischerzoe@kwi.ch>
 
-v0.01, 17.10.2017
 
 :doctype: book
 :icons:
@@ -33,19 +32,14 @@ include::6_Danksagung.adoc[]
 
 :numbered!:
 
+include::product.adoc[]
+
 include::7_Literaturverzeichnis.adoc[]
 
 include::8_Authentitätserklärung.adoc[]
 
 // Return to normal title levels
 :leveloffset: 0
-
-Anhang:
-
-Dies ist der Youtube Link zu meinem Produkt. 
-https://www.youtube.com/watch?v=sM-plcXKw5I&t=16s
-
-
 
 
 [glossary]
@@ -61,4 +55,3 @@ Nikon D7200:: https://www.nikon.ch/de_CH/product/digital-cameras/slr/consumer/d7
 Stop-Motion:: Eine Filmtechnik, bei der durch die Aneinanderreihung von fotografischen Standbildern, eine Illusion von Bewegung erzeugt wird.
 StopMotion Studio:: https://itunes.apple.com/ch/app/stop-motion-studio/id441651297?mt=8
 Zoom H5:: https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h5-handy-recorder
-
